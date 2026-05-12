@@ -1,0 +1,14 @@
+{
+  "name": "press-sns-trend-topics",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "analyze:trends": "node scripts/analyze-trends.js",
+    "score:topics": "node scripts/score-topics.js",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

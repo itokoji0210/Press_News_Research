@@ -1,0 +1,4007 @@
+{
+  "generatedAt": "2026-05-12T15:50:30.099Z",
+  "sources": [
+    {
+      "name": "NHK News",
+      "type": "major",
+      "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "itemCount": 7,
+      "error": null
+    },
+    {
+      "name": "Yahoo!ニュース 地域",
+      "type": "local",
+      "url": "https://news.yahoo.co.jp/rss/categories/local.xml",
+      "itemCount": 50,
+      "error": null
+    },
+    {
+      "name": "PR TIMES",
+      "type": "pr",
+      "url": "https://prtimes.jp/main/rss",
+      "itemCount": 0,
+      "error": "404 Not Found"
+    },
+    {
+      "name": "@Press",
+      "type": "pr",
+      "url": "https://www.atpress.ne.jp/rss",
+      "itemCount": 0,
+      "error": "404 Not Found"
+    },
+    {
+      "name": "みんなの経済新聞ネットワーク",
+      "type": "local-business",
+      "url": "https://minkei.net/rss.xml",
+      "itemCount": 100,
+      "error": null
+    },
+    {
+      "name": "官公庁 新着",
+      "type": "government",
+      "url": "https://www.e-gov.go.jp/news/rss.xml",
+      "itemCount": 0,
+      "error": "404 Not Found"
+    },
+    {
+      "name": "Google News 災害",
+      "type": "news-search",
+      "url": "https://news.google.com/rss/search?q=%E7%81%BD%E5%AE%B3%20OR%20%E5%BE%A9%E6%97%A7%20OR%20%E6%B0%B4%E4%B8%8D%E8%B6%B3&hl=ja&gl=JP&ceid=JP:ja",
+      "itemCount": 100,
+      "error": null
+    },
+    {
+      "name": "Google News 観光・地域",
+      "type": "news-search",
+      "url": "https://news.google.com/rss/search?q=%E8%A6%B3%E5%85%89%20OR%20%E8%8A%B1%20OR%20%E5%86%8D%E9%96%8B%E7%99%BA%20OR%20%E9%96%89%E5%BA%97&hl=ja&gl=JP&ceid=JP:ja",
+      "itemCount": 100,
+      "error": null
+    },
+    {
+      "name": "SNS signals",
+      "type": "social",
+      "url": "C:\\Users\\1060361\\Documents\\Codex\\2026-05-13\\pr-times-press-sns-scripts-analyze\\data\\social-signals.json",
+      "itemCount": 0,
+      "error": null
+    }
+  ],
+  "newsTrends": [
+    {
+      "source": "NHK News",
+      "sourceType": "major",
+      "title": "ハンタウイルス クルーズ船の感染確認9人に WHO",
+      "summary": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関は、新たに2人の感染が確認され、感染者が9人になったと発表しました。WHOは今後、感染者と接触した乗客などで新たな感染が確認される可能性があるとする一方、「大規模な感染拡大の兆候は見られない」としています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260512/k10015120031000.html",
+      "publishedAt": "2026-05-12T14:16:30.000Z"
+    },
+    {
+      "source": "NHK News",
+      "sourceType": "major",
+      "title": "磐越道 部活バス事故 生徒が事故直前に動画撮影 “死ぬかも”",
+      "summary": "福島県の磐越自動車道で新潟県の高校生など21人が死傷したバス事故で、乗っていた生徒が事故直前の様子を動画で撮影していたことが捜査関係者への取材でわかりました。生徒は「死ぬかもしれない」という趣旨のメッセージとともに動画を保護者に送っていたということで、警察がバスの走行状況を詳しく調べています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260512/k10015119151000.html",
+      "publishedAt": "2026-05-12T10:28:18.000Z"
+    },
+    {
+      "source": "NHK News",
+      "sourceType": "major",
+      "title": "イラン 強気な姿勢崩さず “米の訪中前に重大決定ない”報道も",
+      "summary": "イラン情勢について、アメリカのトランプ大統領が停戦が維持できるかどうかは瀬戸際にあるという見方を示しているのに対し、イラン側はみずからの回答を受け入れるよう求めるなど、強気な姿勢を崩していません。アメリカのCNNテレビは、トランプ大統領が首脳会談のため中国へ出発する前に重大な決定を行う可能性は低いとの見方を伝えています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260512/k10015118891000.html",
+      "publishedAt": "2026-05-12T10:27:15.000Z"
+    },
+    {
+      "source": "NHK News",
+      "sourceType": "major",
+      "title": "14日から米中首脳会談 米“イラン情勢やエネルギー議論”",
+      "summary": "アメリカのトランプ大統領は、今週予定されている中国の習近平国家主席との首脳会談をめぐり、中国はホルムズ海峡を通じ多くの原油を輸入していると指摘し、イラン情勢やエネルギー調達について意見を交わす考えを示しました。一方、米中関係をめぐっては、アメリカ軍のイランへの軍事作戦が中国に対する抑止に影響を及ぼすのではないかとの見方も出ています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260512/k10015119051000.html",
+      "publishedAt": "2026-05-12T14:56:13.000Z"
+    },
+    {
+      "source": "NHK News",
+      "sourceType": "major",
+      "title": "米消費者物価指数 去年同月比3.8％上昇 2年11か月ぶりの高水準",
+      "summary": "アメリカのインフレの動向を示す先月の消費者物価指数は、去年の同じ月と比べて3.8％の上昇となりました。イラン情勢を受けてガソリン価格などが大きく上昇したためで、伸び率は2年11か月ぶりの高い水準となっています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260512/k10015119881000.html",
+      "publishedAt": "2026-05-12T14:41:00.000Z"
+    },
+    {
+      "source": "NHK News",
+      "sourceType": "major",
+      "title": "JOC北野副会長が不適切発言認め競技団体会長と共に辞任",
+      "summary": "日本ボブスレー・リュージュ・スケルトン連盟の北野貴裕会長が、ボブスレー男子のオリンピック出場を連盟のミスで逃したことをめぐる聞き取りの中で、不適切な発言をしたことを認めて会長を辞任しました。あわせてJOC＝日本オリンピック委員会の副会長についても辞任しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260512/k10015119821000.html",
+      "publishedAt": "2026-05-12T13:00:46.000Z"
+    },
+    {
+      "source": "NHK News",
+      "sourceType": "major",
+      "title": "出光興産トップ “原油調達 今の状況で続けていける感触”",
+      "summary": "原油調達の現状について、石油元売り大手「出光興産」の酒井社長は、中東からホルムズ海峡を通らずに運ぶルートや、北米、南米からの輸入を進め、「今の状況で続けていけるという感触をつかんでいる」と述べ、今後の確保に手応えを示しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260512/k10015119691000.html",
+      "publishedAt": "2026-05-12T11:00:04.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "男性の顔を刃物で切りつけたか 殺人未遂の疑いで男子中学生（14）逮捕 名古屋・中区(中京テレビNEWS)",
+      "summary": "5月6日、名古屋市の繁華街で男性が刃物で切りつけられた殺人未遂事件で、14歳の男子中学生が逮捕されました。 逮捕されたのは、フィリピン国籍の14歳の男子中学生です。 警察によりますと、男子中学生は",
+      "url": "https://news.yahoo.co.jp/articles/987da31f04eb32848b87a81e03506435215cb9b9?source=rss",
+      "publishedAt": "2026-05-12T15:37:01.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "市議選で有権者にプリペイドカード渡した罪に問われる 元津市議の男の初公判 検察は拘禁刑1年求刑(中京テレビNEWS)",
+      "summary": "2026年1月の津市議選で、有権者にプリペイドカードを渡した罪に問われている男の裁判で、検察は拘禁刑1年を求刑しました。 起訴状によりますと、1月の津市議選に立候補した長谷川正被告（68）は、有権者",
+      "url": "https://news.yahoo.co.jp/articles/47c4d6b599863a8b3fc96c7cc1b839d69c91e3e4?source=rss",
+      "publishedAt": "2026-05-12T15:34:01.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "「鉄筋を切っていたら火花が…」枯草火災で軽トラック全焼 ビニールハウス骨組み切断中の火花が原因か 鹿児島(MBC南日本放送)",
+      "summary": "南さつま市の畑で12日、枯れ草火災が発生し近くに停めてあった軽トラックが全焼しました。 南さつま警察署によりますと12日正午前、南さつま市金峰町で「鉄筋を切っていたら火花が枯れ草に燃え移った」と作業",
+      "url": "https://news.yahoo.co.jp/articles/73b0089ba63ee8bea051c107810df66bde6739eb?source=rss",
+      "publishedAt": "2026-05-12T15:22:13.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "団体職員の男が帰宅途中の女子高生の下半身触った疑い(関西テレビ)",
+      "summary": "京都市北区の路上で帰宅中の女子高校生の下半身を触った疑いで団体職員の男が逮捕されました。 不同意わいせつの疑いで逮捕されたのは、京都市北区に住む団体職員の58歳の男です。 警察によると男は去年9月",
+      "url": "https://news.yahoo.co.jp/articles/5fcbfa35895ad2f3bed1525d1243d41b0f473369?source=rss",
+      "publishedAt": "2026-05-12T15:10:01.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "熊谷で「ちふれASエルフェン埼玉」ホーム最終戦 セレモニーも(みんなの経済新聞ネットワーク)",
+      "summary": "WEリーグ第21節が5月10日、熊谷スポーツ文化公園陸上競技場（熊谷市上川上）で行われ、ちふれASエルフェン埼玉はINAC神戸レオネッサに0-1で敗れた。（熊谷経済新聞） 今季のホーム最終戦とな",
+      "url": "https://news.yahoo.co.jp/articles/45fb9252c56f87834d81bd30ebd10243c471fd30?source=rss",
+      "publishedAt": "2026-05-12T14:59:59.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "楽天東北シリーズ開幕戦に熱い声援／青森県弘前(陸奥新報)",
+      "summary": "青森県弘前市のはるか夢球場で12日、プロ野球パ・リーグ1軍公式戦「東北楽天ゴールデンイーグルス―オリックス・バファローズ戦」が行われた。楽天が本拠地以外の東北5県を巡る「東北シリーズ」の幕開けを飾る",
+      "url": "https://news.yahoo.co.jp/articles/f8d1eb9e84486baf2770ed06656a945cfdd3adf8?source=rss",
+      "publishedAt": "2026-05-12T14:57:41.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "大規模災害に備えて連携強化を確認 福岡県や自衛隊などがトップ会談 梅雨時期を前に(RKB毎日放送)",
+      "summary": "梅雨入りを前に、福岡県や自衛隊などの防災関係機関のトップが集まり、災害に備え連携を強化していくことを確認しました。 12日、福岡県庁で開かれた会議には、服部知事のほか、自衛隊や警察、消防などのトップ",
+      "url": "https://news.yahoo.co.jp/articles/cc388349c89fb57bf09b4d66b3a914a0d8afd400?source=rss",
+      "publishedAt": "2026-05-12T14:51:17.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "関連死、新たに3人 能登町、七尾市(北國新聞社)",
+      "summary": "石川県は12日、能登半島地震による災害関連死の審査会を開き、能登町と七尾市の計3人を新たに認定すると決めた。近く各市町が正式に認定する。地震の関連死は507人となり、直接死228人と合わせた死者は計",
+      "url": "https://news.yahoo.co.jp/articles/f089ff6dcad2c9a472d38d18b33385a6eaf22ae0?source=rss",
+      "publishedAt": "2026-05-12T14:39:15.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "施術中に性的暴行か 42歳の接骨院院長を逮捕 愛知県愛西市 (メ〜テレ（名古屋テレビ）)",
+      "summary": "愛知県愛西市の接骨院で、施術と称し50代の女性に性的暴行を加えたとして42歳の院長の男が逮捕されました。 不同意性交等の疑いで逮捕されたのは愛知県愛西市で接骨院を経営する加賀広樹容疑者（42）です",
+      "url": "https://news.yahoo.co.jp/articles/c2004d664888407ef917b44afa4605c2c2dd2264?source=rss",
+      "publishedAt": "2026-05-12T14:39:01.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "投資名目で…被害総額は5400万円 有名実業家になりすまし70代男性から300万円だまし取った疑い 滋賀県の男（54）逮捕(MBC南日本放送)",
+      "summary": "有名実業家になりすまして鹿児島市の70代男性から現金300万円をだまし取った疑いで、滋賀県に住む無職の男（54）が逮捕されました。 詐欺の疑いで逮捕されたのは滋賀県彦根市に住む無職の男（54）です。",
+      "url": "https://news.yahoo.co.jp/articles/910c06f9ba2c7dc4594da74400d8553b80a902fa?source=rss",
+      "publishedAt": "2026-05-12T14:37:12.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "末端価格は約114億円か 覚醒剤を密輸したとして外国籍の男3人を逮捕 愛知県警(メ〜テレ（名古屋テレビ）)",
+      "summary": "覚醒剤を綿に混ぜて密輸したとして、外国籍の男3人が逮捕されました。末端価格は114億円相当とみられています。 覚醒剤取締法違反の疑いで逮捕されたのは、イギリス国籍のモハメッド・アベド容疑者（50）",
+      "url": "https://news.yahoo.co.jp/articles/da8fd373c634c05328e257ae85dd127e9346a1d0?source=rss",
+      "publishedAt": "2026-05-12T14:36:01.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "幡ケ谷でマルシェイベント「水道道路MARCHE」 住民らが出店(みんなの経済新聞ネットワーク)",
+      "summary": "幡ケ谷の旧都営幡ケ谷原町アパート跡の空き地（渋谷区幡ヶ谷2）で5月16日、マルシェイベント「水道道路MARCHE vol.2」が開催される。主催は渋谷未来デザインとササハタハツまちラボ。（シブヤ経済",
+      "url": "https://news.yahoo.co.jp/articles/7f3ce33a5c134132eab4ecff17827a85b129ce24?source=rss",
+      "publishedAt": "2026-05-12T14:34:37.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "和歌山・本町公園で「和歌山カレー大会」 県内外37店が集結、人気投票も(みんなの経済新聞ネットワーク)",
+      "summary": "第5回「和歌山カレー大会」が5月17日、本町公園（和歌山市北桶屋町）で開催される。主催は「熱帯酒場」（美園町2）。（和歌山経済新聞） 県内外から出店する各店のカレーを参加者が自由に盛り合わせて「",
+      "url": "https://news.yahoo.co.jp/articles/cb9d6aa47765a475702cc282d30fc58084a0f75e?source=rss",
+      "publishedAt": "2026-05-12T14:30:00.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "かほくに幸せ運んで コウノトリ初営巣、ひな誕生(北國新聞社)",
+      "summary": "かほく市湖北の河北潟干拓地で、「幸せを運ぶ鳥」と呼ばれる国特別天然記念物コウノトリのつがいが電柱の上で営巣し、12日までに2羽のひなが誕生した。同市内で営巣とふ化が確認されるのは初めてで、関係者は「",
+      "url": "https://news.yahoo.co.jp/articles/a23485fd9d9ff5e051d67bdcd2de241a7bea535e?source=rss",
+      "publishedAt": "2026-05-12T14:18:17.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "車の運行をリアルタイムで管理 長野市の高校で4月に導入 生徒が地域のスポーツクラブ参加の送迎に使用 磐越道事故を受けて部活動の遠征に使用するマイクロバスにも導入へ【長野】(テレビ信州)",
+      "summary": "福島県の磐越自動車道で高校生など21人が死傷したマイクロバスによる事故。 こうした事故を防ぐため、車の運行をリアルタイムで管理できるシステムを、すでに導入している長野市の学校を取材しました。 長野日",
+      "url": "https://news.yahoo.co.jp/articles/f4fb6930dadf57a8de6febca31fb1d02a844882a?source=rss",
+      "publishedAt": "2026-05-12T14:17:00.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "慰謝料の支払いをめぐるトラブルか 元夫に暴行を加え現金などを奪い監禁した疑い 元妻ら5人を逮捕 大阪府警(読売テレビ)",
+      "summary": "離婚に伴う慰謝料の支払いが滞っているとして、39歳の男性の頭を凶器で殴るなどの暴行を加え、現金を奪うなどした疑いで、31歳の元妻と知人の男らの計5人が逮捕されました。 強盗致傷や監禁致傷などの",
+      "url": "https://news.yahoo.co.jp/articles/4ab99e40d3170255eb06af4c8e2641018e24468d?source=rss",
+      "publishedAt": "2026-05-12T14:14:01.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "長崎で活動の動物愛護団体、特殊犬の保護目指しCFで支援呼びかけ(みんなの経済新聞ネットワーク)",
+      "summary": "長崎市を中心に活動する一般社団法人「長崎ライフオブアニマル」（諫早市）が現在、施設拡大や保護数の増加に伴う医療費確保のためクラウドファンディング（CF）で支援を呼びかけている。（長崎経済新聞）",
+      "url": "https://news.yahoo.co.jp/articles/c56032e1e39eea89f057b0ee4ee8a17e67646134?source=rss",
+      "publishedAt": "2026-05-12T14:02:10.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "プロの美技、1万人超堪能／弘前で楽天－オリ戦(Web東奥)",
+      "summary": "プロ野球パ・リーグ1軍戦の楽天－オリックスが12日、青森県弘前市のはるか夢球場で行われた。同球場での1軍戦開催は3年連続7回目。ホームの楽天は0－2で敗れ、同球場で2年連続の勝利を飾ることができなか",
+      "url": "https://news.yahoo.co.jp/articles/8969516656d80b24752dc0f8269cc6959fa0d0a2?source=rss",
+      "publishedAt": "2026-05-12T14:01:00.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "大阪のご当地アイドル「オバチャーン」、新メンバーオーディション実施へ(みんなの経済新聞ネットワーク)",
+      "summary": "大阪のご当地アイドルグループ「オバチャーン」が5月9日、新世界ZAZA POCKETS（大阪市浪速区恵美須東2）で活動15周年記念ライブを開催した。（あべの経済新聞） 2011（平成23）年結成",
+      "url": "https://news.yahoo.co.jp/articles/6ebe6ce507fabfef1821c4dbf7ee9afac2a18ab6?source=rss",
+      "publishedAt": "2026-05-12T14:00:04.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "有名実業家を装い複数回メッセージ――70代男性から300万円詐取疑い 滋賀の男、匿流の受け子役か(南日本新聞)",
+      "summary": "鹿児島市の70代男性が約5400万円をだまし取られた特殊詐欺事件で、鹿児島西署と県警組織犯罪対策課は12日、詐欺の疑いで、滋賀県彦根市長曽根南町、無職小川喜隆容疑者（54）を逮捕した。匿名・流動型犯",
+      "url": "https://news.yahoo.co.jp/articles/edffcddcea6b8627ac91c3a13fd182166ad11502?source=rss",
+      "publishedAt": "2026-05-12T13:55:22.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "編みぐるみで能登応援 主婦らのグループ「金石手芸部」宿泊施設で販売 売り上げ寄付「今後も続けたい」(北國新聞社)",
+      "summary": "金沢市金石下本町で手芸を楽しむ主婦らのグループ「金石手芸部」が、作品を通じて能登半島地震の復興支援を行っている。毛糸を編んで作った「編みぐるみ」は全国の宿泊施設で販売され、売り上げの一部が被災地に寄",
+      "url": "https://news.yahoo.co.jp/articles/f6f1bfd5c0d9fb5f5f4af582cd7b64f79d0029a5?source=rss",
+      "publishedAt": "2026-05-12T13:54:18.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "58歳団体職員の男が女子高校生の下半身を触った疑いで逮捕 駅から約15分間にわたりつけ回したか 「女性の肩をたたき、『かわいいね』と声をかけただけ」などと容疑を否認 京都府警(ABCニュース)",
+      "summary": "京都市北区で去年9月、帰宅途中の女子高校生の下半身を触ったとして、58歳の団体職員が逮捕されました。 不同意わいせつの疑いで逮捕されたのは、京都市北区に住む団体職員の男（58）です。 男は、",
+      "url": "https://news.yahoo.co.jp/articles/ba15c4030dbf586e1568a2c4d61f0a1fa2ed9e10?source=rss",
+      "publishedAt": "2026-05-12T13:48:07.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "松岡修造さん、佐藤直子さん、和倉でトークショー 30日(北國新聞社)",
+      "summary": "能登和倉国際女子オープンテニス（北國新聞社特別協力）の復興支援イベントは30日午後1時15分から、七尾市和倉温泉お祭り会館で開かれる。元プロテニス選手でスポーツキャスターとして活躍する松岡修造さんと",
+      "url": "https://news.yahoo.co.jp/articles/552d3dc1e6946e12a05966fb79876fdbadea06eb?source=rss",
+      "publishedAt": "2026-05-12T13:45:31.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "大崎市田尻の路上でクマ1頭目撃・宮城(ミヤギテレビ)",
+      "summary": "警察によりますと、12日午後8時10分頃、大崎市田尻小塩五代江東の路上で体長約1メートルのクマ1頭が目撃されたということです。 クマはその後北側の田んぼに入っていったということです。警察が付近をパト",
+      "url": "https://news.yahoo.co.jp/articles/fd99f5b19b32a2805fbc323c9ff4bcac9a85ba48?source=rss",
+      "publishedAt": "2026-05-12T13:44:00.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "数百回に渡りメールで復縁迫ったか 自宅に押しかけたり「出てこい」と騒いだり…22歳女を逮捕「男に責任がある」容疑を一部否認 静岡県警富士宮署(静岡朝日テレビ)",
+      "summary": "かつて交際していた男性に、数百回にわたり復縁を求めるメール送信したとして、22歳の女が逮捕されました。 ストーカー規制法違反の疑いで逮捕されたのは、静岡県富士宮市の22歳の女です。警察の調べによ",
+      "url": "https://news.yahoo.co.jp/articles/c57665635be1beb76023011e337a49abd2ff6f93?source=rss",
+      "publishedAt": "2026-05-12T13:42:27.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "太白2丁目の路上を横切るクマ1頭目撃 宮城・仙台市太白区(ミヤギテレビ)",
+      "summary": "警察によりますと、12日午後8時35分頃、太白区太白2丁目の路上でクマ1頭が目撃されたということです。 目撃したのは走行中のドライバーで、クマはため池近くにある道路を東から西側に横切り、立ち去ったと",
+      "url": "https://news.yahoo.co.jp/articles/6efcaf6aba5b8e1c57bdff003ca76fbbddfb4137?source=rss",
+      "publishedAt": "2026-05-12T13:35:00.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "登山道でクマの目撃情報 「鈴やラジオを携帯して登山を」 静岡・裾野市(静岡朝日テレビ)",
+      "summary": "静岡県裾野市の登山道でクマの目撃情報があり、市が注意を呼びかけています。 裾野市によりますと、12日午前11時半ごろ、裾野市十里木の越前岳登山道 馬の背・美晴台から南におよそ300メートルの場所",
+      "url": "https://news.yahoo.co.jp/articles/32fca33d04f373d3651c896d3f5fbf70c9ba9e88?source=rss",
+      "publishedAt": "2026-05-12T13:27:42.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "「午前中は無風だったから相当暑かった」全国一番の暑さに！美幌町29.1℃…北見市内では女の子が熱中症疑いで搬送〈北海道〉(北海道ニュースUHB)",
+      "summary": "5月12日は、北海道東部を中心に気温が上がり、オホーツク海側の美幌町で気温が29.1℃を超え、全国で一番の暑さになりました。 このほか、北見市や帯広市など北海道内39地点で25℃以上の夏日になり",
+      "url": "https://news.yahoo.co.jp/articles/a01d8536f2b230384b2fd477630f678b8bd4afe3?source=rss",
+      "publishedAt": "2026-05-12T13:22:01.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "【最新】「体を触りました」26歳児童相談所職員が10代前半の少女にわいせつで逮捕…職員採用前の民間施設で〈北海道〉(北海道ニュースUHB)",
+      "summary": "児童相談所職員の男が、10代前半の少女にわいせつな行為をした疑いで逮捕されました。 不同意わいせつの容疑で逮捕されたのは、北海道の岩見沢児童相談所の職員、吹谷望実容疑者(26)です。 警察に",
+      "url": "https://news.yahoo.co.jp/articles/179491e1ed6db1bffccae3702d606d72862cc073?source=rss",
+      "publishedAt": "2026-05-12T13:22:01.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "東松島市野蒜ケ丘でクマ1頭目撃・近くにはJR野蒜駅・宮城(ミヤギテレビ)",
+      "summary": "警察によりますと、12日午後5時35分頃、東松島市野蒜ケ丘1丁目で道路を横切る体長約1メートルのクマ1頭が目撃されたということです。 目撃したのは付近の住民で、北側の山林から出てきたクマは「里の公園",
+      "url": "https://news.yahoo.co.jp/articles/5e67cdba9fc404befbbe7725c82eab1643b06903?source=rss",
+      "publishedAt": "2026-05-12T13:22:00.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "知人の顔をはたく 嬉野市議、傷害容疑で書類送検 全員協議会で陳謝(佐賀新聞)",
+      "summary": "嬉野市議会の川内聖二議員（61）=4期=が、知人の顔をはたいたなどとして傷害容疑で書類送検されたことが12日、関係者への取材で分かった。知人側が佐賀県警に被害届を提出していた。 市議会事務局によ",
+      "url": "https://news.yahoo.co.jp/articles/48dbc9e4777ba6ed9569a682053a61385756eda9?source=rss",
+      "publishedAt": "2026-05-12T13:18:23.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "4月の自転車「青切符」37件…うち35件が「ながら携帯」 事故は去年の25%減 県警「利用者の意識が変わった」 静岡(静岡朝日テレビ)",
+      "summary": "4月から始まった自転車の青切符制度。静岡県警が制度開始から1カ月間の指導取り締まり状況を発表しました。 県警交通指導課によりますと、4月の指導取り締まり件数は2205件で、ほとんどが罰金や前科が",
+      "url": "https://news.yahoo.co.jp/articles/f3f8655a7c8be29e1eea83342afdd4ea866b5cc0?source=rss",
+      "publishedAt": "2026-05-12T13:16:47.000Z"
+    },
+    {
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "title": "男女以外の表記認めない戸籍法の運用 大阪高裁が「憲法抵触」(関西テレビ)",
+      "summary": "自身を男性にも女性にも当てはまらないとする「ノンバイナリー」の当事者が、戸籍の訂正を申し立てた審判で、大阪高等裁判所は現在の戸籍法の運用が「憲法に抵触している」と判断したことがわかりました。 自分は",
+      "url": "https://news.yahoo.co.jp/articles/02d21fb8ea4add0d104eeacb88a66435fddd81b6?source=rss",
+      "publishedAt": "2026-05-12T13:12:02.000Z"
+    }
+  ],
+  "words": [
+    {
+      "word": "href",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "https",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "news",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "google",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "com",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "rss",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "articles",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "target",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "blank",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "nbsp",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "font",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "color",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "f6f6f",
+      "count": 200,
+      "previousCount": 200,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 806,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5"
+      ]
+    },
+    {
+      "word": "Yahoo",
+      "count": 61,
+      "previousCount": 62,
+      "rise": -0.016129032258064516,
+      "categories": [
+        "一般"
+      ],
+      "score": 250,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MnNNTE81c2FIcVB2cThKSFBueVVJNjl6SEZHazBiSml4NEdKN1lqSWdEVG5vM3RtOHk2RGNYMTdxMF8tVE5lRFB5b2pnSnFWd1NSbENSNTNJVXlFcUlfV3hGMV9FWkZNQ2lUZkdzWl9XX0RFT2dIYWFVd1hQQlk?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQnh0MTIxODYtX0dSd2E5MHBHOEgzM0lNeHg0anlXUm5vRHRGWEZXZVNMTTRrNm5OeXJjQmRHM0JKSlF4OVRXWlFRX3B0dHM2Tm94cnZJLVh5WUxySlpITDc4RkhWcnVTT2F1QWlzZUN0SXFxLV9oQjhRNTcxOVk?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FMkh5N0xuSTJCNlJHanpyU1BPN2FBTF93QVk0MXlJLWVLcUx2X2NuU2t0VW1QaXJYOEhfZXFPMTd5dWdsa0R1R0hlblZxY0dkYWZpcDFkb0VWM3FxaFF3Wl82RlQ2aWh4NDZaTEVyWE9xeUtSUUpaUEN4eG54a3c?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yOEZ3SGhUdW02V3p2bWlYLVFkWWR1Rk9taFdWbk1ZbXlhRjNJWGV5QTlSV1E4TzFhZVlhZE91ZDR6WGcwUXBSYUEwN0NnUHFIelVFc0RzMWtkSHNnZVFOSWYwV1dKMEg4UzE1QklDMGtrMlk1cUtfTTd6ZnJrS1E?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5QmFLTk81aU01YURPWEwyRGpTb09PSXZpeUNfQVpvc015LW5KRmUzQ0NsVUlBNHpYeXpmUDRqdWdDYXY2cEM5QUNZM01jT3U0QmZIT2hfN0hFdjJRQmlPWE1DYmRIWWhnYnNIN1ZWendDMmVvb3FjN2Nrc2wxYlk?oc=5"
+      ]
+    },
+    {
+      "word": "NEWS",
+      "count": 27,
+      "previousCount": 27,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 121,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/987da31f04eb32848b87a81e03506435215cb9b9?source=rss",
+        "https://news.yahoo.co.jp/articles/47c4d6b599863a8b3fc96c7cc1b839d69c91e3e4?source=rss",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wM1dZcVJqOTFGNW5BdGltTHpjS1hqUHc4NkV6SkVFVGxTUHRVNTB4OGRTeGRUZktIRDQyRE5hU1k2RnV2RW5aMnI4N1k4ODI5X3pIRGd4a2dRdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xUzAzcFFoUDhXSFczcU5faHUzSkFWUld0TkVCMEFwSVJzcmtxbVpLOFVhaFRwQTFLRXpJYlNockVIOVFiRklXYktkcWN4b211MVcxWjNFRXVCTjliNjJjMTZ5MW0?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2ZUp6WDRtczNIdFN5dmdxQXlxSHRjZ3d1U2JBN2EzTWxpazIyQnA4dk85Y0U3bW9QMTMxU2xuX3AyRWhUR2VTWGF0YS1MRi1ydUdFRVNBNlV6N19laDFURlJ6ZFdJQjA?oc=5"
+      ]
+    },
+    {
+      "word": "復旧",
+      "count": 25,
+      "previousCount": 25,
+      "rise": 0,
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "score": 115,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQnh0MTIxODYtX0dSd2E5MHBHOEgzM0lNeHg0anlXUm5vRHRGWEZXZVNMTTRrNm5OeXJjQmRHM0JKSlF4OVRXWlFRX3B0dHM2Tm94cnZJLVh5WUxySlpITDc4RkhWcnVTT2F1QWlzZUN0SXFxLV9oQjhRNTcxOVk?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5QmFLTk81aU01YURPWEwyRGpTb09PSXZpeUNfQVpvc015LW5KRmUzQ0NsVUlBNHpYeXpmUDRqdWdDYXY2cEM5QUNZM01jT3U0QmZIT2hfN0hFdjJRQmlPWE1DYmRIWWhnYnNIN1ZWendDMmVvb3FjN2Nrc2wxYlk?oc=5",
+        "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqeW5mNVZnZGtTNmNraTBkSk5RZ0tnZFV4VXdpVG9FZlJndEdfcFc4ZmJqc1pZNVN6Z3FMbDlyYklrclRib3I0VHNrR1IzQQ?oc=5"
+      ]
+    },
+    {
+      "word": "東京",
+      "count": 16,
+      "previousCount": 16,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 80,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/07a0215af728a75e4ca9c2c545e983ff75a6c549?source=rss",
+        "https://itabashi.keizai.biz/headline/1092/",
+        "https://tachikawa.keizai.biz/headline/4179/",
+        "https://asakusa.keizai.biz/headline/985/",
+        "https://bunkyo.keizai.biz/headline/1040/"
+      ]
+    },
+    {
+      "word": "梅雨",
+      "count": 12,
+      "previousCount": 12,
+      "rise": 0,
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "score": 76,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/cc388349c89fb57bf09b4d66b3a914a0d8afd400?source=rss",
+        "https://koto.keizai.biz/headline/862/",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FMkh5N0xuSTJCNlJHanpyU1BPN2FBTF93QVk0MXlJLWVLcUx2X2NuU2t0VW1QaXJYOEhfZXFPMTd5dWdsa0R1R0hlblZxY0dkYWZpcDFkb0VWM3FxaFF3Wl82RlQ2aWh4NDZaTEVyWE9xeUtSUUpaUEN4eG54a3c?oc=5"
+      ]
+    },
+    {
+      "word": "港",
+      "count": 11,
+      "previousCount": 11,
+      "rise": 0,
+      "categories": [
+        "写真ネタ化"
+      ],
+      "score": 72,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/ccec279badb26fbc79a32fa48601c9f4045a4381?source=rss",
+        "https://hachinohe.keizai.biz/headline/2612/",
+        "https://hongkong.keizai.biz/headline/2869/",
+        "https://shinbashi.keizai.biz/headline/2623/",
+        "https://funabashi.keizai.biz/headline/3735/"
+      ]
+    },
+    {
+      "word": "大阪",
+      "count": 13,
+      "previousCount": 13,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 65,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/4ab99e40d3170255eb06af4c8e2641018e24468d?source=rss",
+        "https://news.yahoo.co.jp/articles/6ebe6ce507fabfef1821c4dbf7ee9afac2a18ab6?source=rss",
+        "https://news.yahoo.co.jp/articles/02d21fb8ea4add0d104eeacb88a66435fddd81b6?source=rss",
+        "https://news.yahoo.co.jp/articles/ed9db8af74e3f4a46fad055e41808cb2d99d9b50?source=rss",
+        "https://abeno.keizai.biz/headline/4475/"
+      ]
+    },
+    {
+      "word": "北海道",
+      "count": 11,
+      "previousCount": 11,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 60,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/a01d8536f2b230384b2fd477630f678b8bd4afe3?source=rss",
+        "https://news.yahoo.co.jp/articles/179491e1ed6db1bffccae3702d606d72862cc073?source=rss",
+        "https://sapporo.keizai.biz/headline/5048/",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GazFQcW9WQ2hqZmdDMlJrcHk4UXJ5VVFFcEt3ZGVuYl9OaTg3ZFNydS1YU2dDS0pRamJ4cGJhZURhbW1MUlBNN29PQ0NIWVRrNTYzM29JSVdEUQ?oc=5"
+      ]
+    },
+    {
+      "word": "再開発",
+      "count": 11,
+      "previousCount": 11,
+      "rise": 0,
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "score": 59,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vZHNqa2dRamZmbFRBT2M4dXpWUGZzNmZWbWNmY01xVW1PaHNsZkItMUNrVFh3WU95TkZWeFVxQjEyLW42WHdSWWNkMDZ5YjVZd3ZlemowOUtqWTZaSXJnYkZfZDEzMW8?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NZlNzamF4Yk92Z09JYXRFYTRxUDBJSVhOU1BIS3lMcWdnUGV2S2ZOSm1KRjlhYmJIMDh1R2ZtckEya21KME11ZjNSV2tKVXgyTzFGNmJPS1ljWFhfRVZDTFZqWlVaSHFV?oc=5",
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sMU1fX3ZWX1BIOWt2bE1GX2p5dnNQNWRJdnMyZWdrNzl3eVFtRGM1LVZlcTh4dWo2amlnelVJeFJPUzhybWNvV0lFX0JPcFB5Z3BHSjZCNA?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE82UjFodUYtaHdjaFdwM0pLYU9nVkE1R3RIUDJUUlVCVzRmSTRXTE9MRmo3QzJwVGxpLXpLV1RidDF0c08wa0VIa0hEZXZQM0ZfX253R2h5SWJwOXJsY2xvMXFKcXFkTEtuY1ZtRjE2TXlTUUl3OF82aTlOVkRtUzQ?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9md0xzLW9pQXFLN2ZKb1BpcUUyQWgxazFPRW15cXkxSWkyeEJjdWFWaTlZUUZRdGNhUUxIRExGTjY5VjRIdnRZWkZVdHdUYVhlaVctaXpjWVIydTFCWDk4SWZUMzBPOFV5TXE5VmhFVVBVWWdNZVd3QUh1cmZQa3c?oc=5"
+      ]
+    },
+    {
+      "word": "避難",
+      "count": 10,
+      "previousCount": 10,
+      "rise": 0,
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "score": 55,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wM1dZcVJqOTFGNW5BdGltTHpjS1hqUHc4NkV6SkVFVGxTUHRVNTB4OGRTeGRUZktIRDQyRE5hU1k2RnV2RW5aMnI4N1k4ODI5X3pIRGd4a2dRdw?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yOEZ3SGhUdW02V3p2bWlYLVFkWWR1Rk9taFdWbk1ZbXlhRjNJWGV5QTlSV1E4TzFhZVlhZE91ZDR6WGcwUXBSYUEwN0NnUHFIelVFc0RzMWtkSHNnZVFOSWYwV1dKMEg4UzE1QklDMGtrMlk1cUtfTTd6ZnJrS1E?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xUzAzcFFoUDhXSFczcU5faHUzSkFWUld0TkVCMEFwSVJzcmtxbVpLOFVhaFRwQTFLRXpJYlNockVIOVFiRklXYktkcWN4b211MVcxWjNFRXVCTjliNjJjMTZ5MW0?oc=5",
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83bXkwbWdYSkZvUjNhSUc4M0RQRXJKa3NJVWpmeE5SWnIwSm5Cc0lNamkzTlFtMktKdnloUVRMbEhOekJfSGllSkctZks2dlk3?oc=5"
+      ]
+    },
+    {
+      "word": "日テレ",
+      "count": 9,
+      "previousCount": 9,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 52,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/07a0215af728a75e4ca9c2c545e983ff75a6c549?source=rss",
+        "https://itabashi.keizai.biz/headline/1092/",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3ZRNzVCb3AxdmkwVENOQ3R5RVhHM3E0RHQtcjllZFkxSWRac1BIMDkxdlhaOXpOZDVwNDdkdXVoRDJpdzFQTUlwLVVqM2tnMnhraUp3QTZqS3gxdno1OXdLdVhnUUgyNU54cm02VzFqeHZpVjJ6RkdFRkNjV01UTFBHMFZnb0U?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX25nMS1rdlBkcVlwdldYRXpGYkdNaWZvZklOS2Q2cWJXWUJKcWtYZXd1VXFzOEQtTHV1SUxxUFNCRUV4SnJsNzRGWFo5cThxMXE1dmxwM3NIUE9KVUd2VFJDdURhU08zSTlWczFFdzRabkZ0VFlnaHlVQzhPOTNiMS1VVktyRXc?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUQwdVhpT3ZvZ2JRN1lFSy1FY2U0WGl5OEZxbmZ4bEFvOXFNb2NTTy1RY0xHMzhpQzJHV3YxNEpNdy1WeUlyaHhsSlI3a0ZSbnh4S0dxVDZOTnRwU2RLV3BSeVMwSlNEbWxxLXoxS2tfbDlUbkJDX2JEWW56RVNMUHdtZkZOQ0k?oc=5"
+      ]
+    },
+    {
+      "word": "で開催される",
+      "count": 10,
+      "previousCount": 10,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 50,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/cb9d6aa47765a475702cc282d30fc58084a0f75e?source=rss",
+        "https://wakayama.keizai.biz/headline/3051/",
+        "https://hikone.keizai.biz/headline/689/",
+        "https://narashino.keizai.biz/headline/992/",
+        "https://kitami.keizai.biz/headline/474/"
+      ]
+    },
+    {
+      "word": "観光地",
+      "count": 7,
+      "previousCount": 8,
+      "rise": -0.125,
+      "categories": [
+        "写真ネタ化"
+      ],
+      "score": 50,
+      "evidenceUrls": [
+        "https://kanazawa.keizai.biz/headline/4045/",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE04QmNFSVRsU1JDUjhTWUtPdkhqczB6UWdUNkE2czc1bWM4Q0lXR2dKbWowd3NBMlF3aFViR1JSNWNCOU9vbVVvb3gxSHpTblE3Rzk0bWtpSU1zckV5OHBpdXQtR1EyaGN5a0ktaUhVVkxwUmttTmxFa2JTamd4X2c?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGaUxvNEFJRHI2M1VWTW9kYi1HcW9waGhxRlc0ekVmUXVqdDRkbmFNaWpJdk9idEJjNXdFSVlJX2QzeUd3V1JxRWNJMFoyY3VZWldpN2poTi1QeWZEWmc?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xV3RNUWxCY2dDdWx4MjJJNVVDV2NDakYwMUI2d0VzSGhCR0hqd2RWZnZCSHYtYndfNUNTTVhOT051UmFMQ0JIMk5NMDZQZEkwVTcyQWpTWE9vdw?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZREZqRlcxVks0SVdCMFdMMFlMREd2dW1MQVpUbHBCQTNNN0NjZllqMnNOc051M1BZV1ZMVTYxQlFSX1czM0pBc3dELVJBampGU1lvdzYySVI2cFlwSmVSS3hnX1F5eHZUZFZHbktOSEMyV1hBbGtUSEx1YlN3QUE?oc=5"
+      ]
+    },
+    {
+      "word": "京都",
+      "count": 9,
+      "previousCount": 9,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 49,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/5fcbfa35895ad2f3bed1525d1243d41b0f473369?source=rss",
+        "https://news.yahoo.co.jp/articles/ba15c4030dbf586e1568a2c4d61f0a1fa2ed9e10?source=rss",
+        "https://asakusa.keizai.biz/headline/985/",
+        "https://takasaki.keizai.biz/headline/5226/",
+        "https://kyotango.keizai.biz/headline/176/"
+      ]
+    },
+    {
+      "word": "地震",
+      "count": 6,
+      "previousCount": 6,
+      "rise": 0,
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "score": 49,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/f089ff6dcad2c9a472d38d18b33385a6eaf22ae0?source=rss",
+        "https://news.yahoo.co.jp/articles/f6f1bfd5c0d9fb5f5f4af582cd7b64f79d0029a5?source=rss",
+        "https://kumamoto.keizai.biz/headline/1196/",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wekVPWi05U2RBZjYyN0pBMXJVX3RyQ1dQcGM3VWo2R0w5ZmNzak82U0ZIRFBtQW5HOHdxZmdiWU9rWWFVdUI4SGRTSkltb3lYUllNajBDaUR6MnJ1U0FJ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EdS1meExXb3hKcnhPcTFSVmFQYzhNUHpqbkk0QkVnZmNHeldKQlRCb3NfbDQtWGJneVFsM3BzSV9LRXAybEdXcTd5MGxNUzlKWXpYN0tjdnY?oc=5"
+      ]
+    },
+    {
+      "word": "クマ",
+      "count": 6,
+      "previousCount": 6,
+      "rise": 0,
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "score": 46,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/fd99f5b19b32a2805fbc323c9ff4bcac9a85ba48?source=rss",
+        "https://news.yahoo.co.jp/articles/6efcaf6aba5b8e1c57bdff003ca76fbbddfb4137?source=rss",
+        "https://news.yahoo.co.jp/articles/32fca33d04f373d3651c896d3f5fbf70c9ba9e88?source=rss",
+        "https://news.yahoo.co.jp/articles/5e67cdba9fc404befbbe7725c82eab1643b06903?source=rss",
+        "https://news.yahoo.co.jp/articles/d97a5afe93c27c342a23c28c38c06f20faad8357?source=rss"
+      ]
+    },
+    {
+      "word": "広島",
+      "count": 9,
+      "previousCount": 9,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 46,
+      "evidenceUrls": [
+        "https://hiroshima.keizai.biz/headline/4640/",
+        "https://hiroshima.keizai.biz/headline/4639/",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3dEgwS1N3V0MyZzlRbjF5WkI4Y2J1WXJobTRaTmNPZk1BRGtubFRvcEZrNlBpNDRJZV93N1FQQzRJRGV1bTBzdjZXZjZFZUtwRk5KUEotUVVpUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TUFlDSGpCUC1taDRHOThrUVE0SkVvcnhTdXJoQ0hCV3JTUlVEYlRkSy1lWkZhV1FmZlhZel9ZU0RiOE5TWnI2a1dMUmZTd3hlcGdCa0l1SHdvSkt0VUJZSkVGTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pUFRRNE02dTRUVDAxQ0x3ajlHWXpxTGdEZE1yWF9lYXpYZVpnZmo3aDJPc0dUUng1UUNwNmUwclJpWC1NRDVVaHM0MGtJalA0VVJYNEhZMlE1QQ?oc=5"
+      ]
+    },
+    {
+      "word": "NHK",
+      "count": 10,
+      "previousCount": 10,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 46,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wekVPWi05U2RBZjYyN0pBMXJVX3RyQ1dQcGM3VWo2R0w5ZmNzak82U0ZIRFBtQW5HOHdxZmdiWU9rWWFVdUI4SGRTSkltb3lYUllNajBDaUR6MnJ1U0FJ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iRmRUaE1paXRRekVsOWVSSXdFQms2ZG5vM0ZXSWJmWjVycTZKT0JrMm52MDJLZWNyT2hpQW5ZLXlWVHZPLV9IdDI3WHJGaVNPZ2ZjMVhXZlE?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EdS1meExXb3hKcnhPcTFSVmFQYzhNUHpqbkk0QkVnZmNHeldKQlRCb3NfbDQtWGJneVFsM3BzSV9LRXAybEdXcTd5MGxNUzlKWXpYN0tjdnY?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpem9ubnhudDZYQ1pIRGFPTGIzR0JfNl9UT3hqdHdULXhZZGdQV3Y3S2U2WU4xZkEtOTV5VW1lMkJseGlJUlJIbkVpc2hfdHYwODB2RWcxVGw?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04REVyNzM2M0pPcHBDNkNjd3dLbHMwNERQdHctaTV2MUtYZVpzT2FQSzIwODRQeTNXYmtfdC01YjVGMFZ3ZmJMdGhQRTBxZnBEREhoSUpTRkc?oc=5"
+      ]
+    },
+    {
+      "word": "工事",
+      "count": 5,
+      "previousCount": 5,
+      "rise": 0,
+      "categories": [
+        "写真ネタ化"
+      ],
+      "score": 45,
+      "evidenceUrls": [
+        "https://hiroshima.keizai.biz/headline/4640/",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IOENkSmJ5c2FwR01rVXcwQllFWHh5ZUdrbm42VUdJb01vZThJelJaM3R4ai1zcE5TdVRuZVdxSkFWN2R1X0NkU1YtdEV5Zkp1cDkzQWxYbTA?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wUDFvU2F0RWl6LVU5MVNoOW1CaVN6YVJIdS11c0dZdGlRTVpiSHdHYUtPTGdRWnMyVjJ4Y1dLMDQtRkxlVF8tUGZmN3RvQnZjTkdpWnVzeWRRb3hzV2VBRmcyWkw5aWQ3?oc=5",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE5WMWdsZ3dXRTc5OGlVdXQxbXBHdTVJbXJnOWIzUmk2TWtwVGFrX3JGdk01dExhRGkyMUtETE1VOUF4THBDTzJnTVVOOHdJeGk3MUVUcTlPMGh0bFBrR04wM1pXX2ZVY3RObG5mU1lRa2Frdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sMU1fX3ZWX1BIOWt2bE1GX2p5dnNQNWRJdnMyZWdrNzl3eVFtRGM1LVZlcTh4dWo2amlnelVJeFJPUzhybWNvV0lFX0JPcFB5Z3BHSjZCNA?oc=5"
+      ]
+    },
+    {
+      "word": "佐賀",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 44,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/48dbc9e4777ba6ed9569a682053a61385756eda9?source=rss",
+        "https://news.yahoo.co.jp/articles/ccec279badb26fbc79a32fa48601c9f4045a4381?source=rss",
+        "https://saga.keizai.biz/headline/2300/",
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54X3hsVnY4OWhFMk5DWTNxVUljb1ZQeWtBRXFXajdCRzB0b2dwdF8wc2lKY1BGdnBreFdPMDdScUhDdHM3VERIOWZFOV9WT2pOMWJrZ29wQ2dXVEZL?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aQ2hWU3NYMnJSSGhSejJzNnowWDRmUFFOSVVUZzNRSFZsenZfdEFqY2tvdE1Ud0YzTWRBczZ5ckZTTm41ZkxzYmM2eWN6cWxWLUdwaExzMDFYVVRESUx5T0Zuc0tuUlk4U1RSWGM0S01WcE14Yzctcm1ib3Rwdm8?oc=5"
+      ]
+    },
+    {
+      "word": "火災",
+      "count": 5,
+      "previousCount": 5,
+      "rise": 0,
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "score": 42,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/73b0089ba63ee8bea051c107810df66bde6739eb?source=rss",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CVkdHcC1jbkFRTXBxOFkwRDRHckVMblpzMExDQUZfWDNZa05TRjBUYTk0RGREcDBlaVZzdGxtUThodmpCOThReU9wcDJzZDdPQm1TeFVoWFRfbFZSYkphMnBB?oc=5",
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54X3hsVnY4OWhFMk5DWTNxVUljb1ZQeWtBRXFXajdCRzB0b2dwdF8wc2lKY1BGdnBreFdPMDdScUhDdHM3VERIOWZFOV9WT2pOMWJrZ29wQ2dXVEZL?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aQ2hWU3NYMnJSSGhSejJzNnowWDRmUFFOSVVUZzNRSFZsenZfdEFqY2tvdE1Ud0YzTWRBczZ5ckZTTm41ZkxzYmM2eWN6cWxWLUdwaExzMDFYVVRESUx5T0Zuc0tuUlk4U1RSWGM0S01WcE14Yzctcm1ib3Rwdm8?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX25nMS1rdlBkcVlwdldYRXpGYkdNaWZvZklOS2Q2cWJXWUJKcWtYZXd1VXFzOEQtTHV1SUxxUFNCRUV4SnJsNzRGWFo5cThxMXE1dmxwM3NIUE9KVUd2VFJDdURhU08zSTlWczFFdzRabkZ0VFlnaHlVQzhPOTNiMS1VVktyRXc?oc=5"
+      ]
+    },
+    {
+      "word": "静岡",
+      "count": 8,
+      "previousCount": 8,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 42,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/c57665635be1beb76023011e337a49abd2ff6f93?source=rss",
+        "https://news.yahoo.co.jp/articles/32fca33d04f373d3651c896d3f5fbf70c9ba9e88?source=rss",
+        "https://news.yahoo.co.jp/articles/f3f8655a7c8be29e1eea83342afdd4ea866b5cc0?source=rss",
+        "https://news.yahoo.co.jp/articles/e8b24693cab661dc3a12f7bfdeb2ec5c449f7a83?source=rss",
+        "https://news.yahoo.co.jp/articles/9626735f5ae1cb26125604f1e8b73e13054ed7cb?source=rss"
+      ]
+    },
+    {
+      "word": "福岡",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 41,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/cc388349c89fb57bf09b4d66b3a914a0d8afd400?source=rss",
+        "https://news.yahoo.co.jp/articles/71e46c84371d1d08f6b592ba9f24f33ca4881562?source=rss",
+        "https://tenjin.keizai.biz/headline/8368/",
+        "https://hakata.keizai.biz/headline/4784/",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5"
+      ]
+    },
+    {
+      "word": "長崎",
+      "count": 7,
+      "previousCount": 8,
+      "rise": -0.125,
+      "categories": [
+        "地域名"
+      ],
+      "score": 41,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/c56032e1e39eea89f057b0ee4ee8a17e67646134?source=rss",
+        "https://nagasaki.keizai.biz/headline/2500/",
+        "https://nagasaki.keizai.biz/headline/2498/",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3ZRNzVCb3AxdmkwVENOQ3R5RVhHM3E0RHQtcjllZFkxSWRac1BIMDkxdlhaOXpOZDVwNDdkdXVoRDJpdzFQTUlwLVVqM2tnMnhraUp3QTZqS3gxdno1OXdLdVhnUUgyNU54cm02VzFqeHZpVjJ6RkdFRkNjV01UTFBHMFZnb0U?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IOENkSmJ5c2FwR01rVXcwQllFWHh5ZUdrbm42VUdJb01vZThJelJaM3R4ai1zcE5TdVRuZVdxSkFWN2R1X0NkU1YtdEV5Zkp1cDkzQWxYbTA?oc=5"
+      ]
+    },
+    {
+      "word": "山梨",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 41,
+      "evidenceUrls": [
+        "https://mtfuji.keizai.biz/headline/2939/",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wM1dZcVJqOTFGNW5BdGltTHpjS1hqUHc4NkV6SkVFVGxTUHRVNTB4OGRTeGRUZktIRDQyRE5hU1k2RnV2RW5aMnI4N1k4ODI5X3pIRGd4a2dRdw?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yOEZ3SGhUdW02V3p2bWlYLVFkWWR1Rk9taFdWbk1ZbXlhRjNJWGV5QTlSV1E4TzFhZVlhZE91ZDR6WGcwUXBSYUEwN0NnUHFIelVFc0RzMWtkSHNnZVFOSWYwV1dKMEg4UzE1QklDMGtrMlk1cUtfTTd6ZnJrS1E?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xUzAzcFFoUDhXSFczcU5faHUzSkFWUld0TkVCMEFwSVJzcmtxbVpLOFVhaFRwQTFLRXpJYlNockVIOVFiRklXYktkcWN4b211MVcxWjNFRXVCTjliNjJjMTZ5MW0?oc=5",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YcnBFNU9USHlqRDJJTGJNVlBKV0pTNy03VkRzQkZNaVZmNDBMbzZMS3gzakhDaEhLQ25obHdmZHY3aGdzUVFLeHJVTnpRaE04YXZiMzFIMm5nSGExZlFOXy11bEhOaE5KNzEzbHQ0WEpxV2NUWHRiODAtcw?oc=5"
+      ]
+    },
+    {
+      "word": "です",
+      "count": 8,
+      "previousCount": 8,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 39,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/c2004d664888407ef917b44afa4605c2c2dd2264?source=rss",
+        "https://news.yahoo.co.jp/articles/910c06f9ba2c7dc4594da74400d8553b80a902fa?source=rss",
+        "https://news.yahoo.co.jp/articles/ba15c4030dbf586e1568a2c4d61f0a1fa2ed9e10?source=rss",
+        "https://news.yahoo.co.jp/articles/fd99f5b19b32a2805fbc323c9ff4bcac9a85ba48?source=rss",
+        "https://news.yahoo.co.jp/articles/6efcaf6aba5b8e1c57bdff003ca76fbbddfb4137?source=rss"
+      ]
+    },
+    {
+      "word": "土砂災害",
+      "count": 6,
+      "previousCount": 6,
+      "rise": 0,
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "score": 39,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EM2tuYzdvemlsR0pISmNyWE81VG5pUFdCeHNCX2tseGE5Yk5HZEtITHhhZjNpZDJ0T0hxVk9WQzFoa0ExdWlCOGNxdXhabGpheWkxbHNTQmN3enIxZEc5U0VhTjVJUXdCd0Z1VVJ2MWM0S21aSUFSdnlFblg0eEk?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rNUIzVXV3ZXB5SlN6WnM4SGhVRHluMTRGUjY4VE5DbFhmVzQ1SDd3bUlXWXlYbkNGRXhhTWtFZHhsVTV4V3Q1TDMxRzlGV191YnprcU9WZmpYQ1ZUYnh3MXJBZFRXNk8tQ3B5ZlV1RlBmV0x6NkdWMXJYY0szejQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04REVyNzM2M0pPcHBDNkNjd3dLbHMwNERQdHctaTV2MUtYZVpzT2FQSzIwODRQeTNXYmtfdC01YjVGMFZ3ZmJMdGhQRTBxZnBEREhoSUpTRkc?oc=5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fTDRtSld1LVBhU1lvV0QxbUtWYUMzZnBDN2NVTmZ5ZWVwQkx1RkEwT0RVR3ZIeXd4SzNxUGpZTFNySU5pR293STVyZTcwM2NxQ09DVlczb3ZJX2VOUHRLaw?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xNDRNdjA5Rl91SE8yUkNDSGFHSDY4cU45LVdwZHI5ZUhkNDFWQ1pfZDJfYXhHczBScWxwTVBZSm5aSzY2eDhKSnBVVXZYamFjb0FqazBoamdObGdkamEtVk4tdw?oc=5"
+      ]
+    },
+    {
+      "word": "閉店",
+      "count": 6,
+      "previousCount": 6,
+      "rise": 0,
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "score": 39,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43d1Z2SDl2TWs5b3E3anJJeW1HWWtESVpyTVpyeGp3dlN5YUo0ZTlZWFQ5V3hhM3k2ZXNKTm1tXzBoamhmODU4OXl1NVZHQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ydmp6UmM2OUtJTThPUjVQX0NSVW9MQWt5SGRIcVYxclJzRUcwejZ2VDBCaTRKQUk0MlNKQmU5akFxSVp2c0ZWLVBMcHQ4dlpxNjR1c293TV90UDhfX1Bz?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NTGo0TTZZaE8tcXVvRDdFT3Z6eFoxUXdwMGhvVlh3QUZZcTFBb3dFNDQ2MnU0bkpmUlhabUUwNk9fbnc5T3dZV1ZhTHFldUQ5c0UzbC03dU5JZw?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SczY4OWdWalNuVEZQbUZweW9qQmdHcVN2UUZfUHZkbWtMU01CSERBNU5oVXlZU3c3RnRYMDRGMFRqRF9qODZtcENyV0t5M3FKNlA1MTZrVjJ2UEpUQ1FXSXA2bS1wTEJ6T05OX2VQUXdMQXVKZnRrSUZSQktINFU?oc=5",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBseGRrb09TOEpjRVNVckktTmlnSGNwZnFOc01SWUZEWkd5MlhJWWw3b05zZklMZ1UxMTNyNm5HbEFvWTdvT2dPS2YzYkVPS2Rza0MzUjMxZEVHLVFvbVVuSjlR?oc=5"
+      ]
+    },
+    {
+      "word": "祭り",
+      "count": 4,
+      "previousCount": 4,
+      "rise": 0,
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "score": 38,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/552d3dc1e6946e12a05966fb79876fdbadea06eb?source=rss",
+        "https://tenjin.keizai.biz/headline/8368/",
+        "https://yokote.keizai.biz/headline/1344/",
+        "https://sendai.keizai.biz/headline/4408/"
+      ]
+    },
+    {
+      "word": "駅前",
+      "count": 4,
+      "previousCount": 4,
+      "rise": 0,
+      "categories": [
+        "写真ネタ化"
+      ],
+      "score": 38,
+      "evidenceUrls": [
+        "https://kyodo.keizai.biz/headline/781/",
+        "https://yamaguchi.keizai.biz/headline/5421/",
+        "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43d1Z2SDl2TWs5b3E3anJJeW1HWWtESVpyTVpyeGp3dlN5YUo0ZTlZWFQ5V3hhM3k2ZXNKTm1tXzBoamhmODU4OXl1NVZHQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9md0xzLW9pQXFLN2ZKb1BpcUUyQWgxazFPRW15cXkxSWkyeEJjdWFWaTlZUUZRdGNhUUxIRExGTjY5VjRIdnRZWkZVdHdUYVhlaVctaXpjWVIydTFCWDk4SWZUMzBPOFV5TXE5VmhFVVBVWWdNZVd3QUh1cmZQa3c?oc=5"
+      ]
+    },
+    {
+      "word": "商店街",
+      "count": 4,
+      "previousCount": 4,
+      "rise": 0,
+      "categories": [
+        "写真ネタ化"
+      ],
+      "score": 38,
+      "evidenceUrls": [
+        "https://koto.keizai.biz/headline/863/",
+        "https://urawa.keizai.biz/headline/1074/",
+        "https://www.hamakei.com/headline/13211/",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1naGs2NEJqbWRMcHRYRFBJMWhwa0lpTWVzUXZDaFdIaVMyY0hWRFgxRGQ5ekg4U1g4d3V2WHd6NlktM25xWlpteFhXMzZjc0QyRVpwUmEtaGVwS2RFRWgxQlhFdnRNY3J4VFEza1F0aWZJOXFzYURZYlgtcnQ1UQ?oc=5"
+      ]
+    },
+    {
+      "word": "青森",
+      "count": 6,
+      "previousCount": 6,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 37,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/f8d1eb9e84486baf2770ed06656a945cfdd3adf8?source=rss",
+        "https://news.yahoo.co.jp/articles/8969516656d80b24752dc0f8269cc6959fa0d0a2?source=rss",
+        "https://news.yahoo.co.jp/articles/d97a5afe93c27c342a23c28c38c06f20faad8357?source=rss",
+        "https://news.yahoo.co.jp/articles/9ee8c965c37ad5562d41039f6e9f60811a5ba27c?source=rss",
+        "https://hirosaki.keizai.biz/headline/2734/"
+      ]
+    },
+    {
+      "word": "Web",
+      "count": 6,
+      "previousCount": 6,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 37,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/8969516656d80b24752dc0f8269cc6959fa0d0a2?source=rss",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80VXV0X1JETlppaG5xeVQyNjhhd05Vc2M3MXJaclhVcTF5YlNIUkx1OHlEaXJKbWwzUlRTYXVQMU13N3VteGFPd19hQVMxQlNnNFhVaXdNMjZFLXhCZFd6Ukxn?oc=5",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YcnBFNU9USHlqRDJJTGJNVlBKV0pTNy03VkRzQkZNaVZmNDBMbzZMS3gzakhDaEhLQ25obHdmZHY3aGdzUVFLeHJVTnpRaE04YXZiMzFIMm5nSGExZlFOXy11bEhOaE5KNzEzbHQ0WEpxV2NUWHRiODAtcw?oc=5",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GSG90Yy16RmxYTnhQVy1pOGNXMUZHMVg0MEFBTVpGSmVRQTRxaVVrTE1FUnhJMkhFRi1CZVNrT0FYbVZob05QWlkzSDhIZjhoalJzX1ZuZWI0ZjRPemJaeGxB?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KTE9SdlBfb1ZHb3h6UUxELTIzdzM2M194T2dmRkp3Vmx5VGpxT0JENndBcDVVcEdNOURTVmRtOFBIcENOZ2dzYURMdWIwLU5iZFNqRHhHRTdMdVNHMXE4R2hlTm9kbnF5R29oaVo1MTFoWXdsb24zNm9GUHQ2ZTA?oc=5"
+      ]
+    },
+    {
+      "word": "沖縄",
+      "count": 6,
+      "previousCount": 6,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 37,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/54abcb4942729d1ff55b1a3c8744e869d215d0f4?source=rss",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rNUIzVXV3ZXB5SlN6WnM4SGhVRHluMTRGUjY4VE5DbFhmVzQ1SDd3bUlXWXlYbkNGRXhhTWtFZHhsVTV4V3Q1TDMxRzlGV191YnprcU9WZmpYQ1ZUYnh3MXJBZFRXNk8tQ3B5ZlV1RlBmV0x6NkdWMXJYY0szejQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fTDRtSld1LVBhU1lvV0QxbUtWYUMzZnBDN2NVTmZ5ZWVwQkx1RkEwT0RVR3ZIeXd4SzNxUGpZTFNySU5pR293STVyZTcwM2NxQ09DVlczb3ZJX2VOUHRLaw?oc=5",
+        "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVcEVfdlNvZkJqTG9Xc2U3YkZHdWxaVFZPQlRSdWdYOUNzYnpuOVJsWUdSR0NVUUlaM3hHT3JTZ2d2NmNtZ19FNGYwRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MZ2xhMUtIN3NOQWRxS0FwVUZfMUIwVzBrVllldG9XV1RXYVI0ZnpEQ1pxZXpJUDExbDB6Q0p2VzNwWFR3bS1TUklXQU04ZDlWVE5qYVVlRnZ3Zw?oc=5"
+      ]
+    },
+    {
+      "word": "神奈川",
+      "count": 6,
+      "previousCount": 6,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 37,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/5dab8bcc7661c3aa423b52b2cea161638939cf0e?source=rss",
+        "https://www.hamakei.com/headline/13211/",
+        "https://www.hamakei.com/headline/13209/",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yQXRVX1QzOS0yZXNmYklGWURmeldkVzhNbHl3Z016czh0WHdwWUJVRTlvb3dTZUh0Y19ncmtkUjlxcFpWOHZzMXlrRG9oVUtPemhKb3NFNnFsdi1qbkZjNE1sUkJiUmc5aWhxQks2V0xlY28?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHb3VTTmh3T3ZCUWYyRFJHc2RQZGhQNmF1WVVQSzBTeTBOdVZsb3ZpVGlJVFpDUUdscTJRVzZtVEtwNV9sTlJsejhIV09jYXctSE9uRUZnVVpVVFFqRTFteFAyY0pYZFZheDZzVEJYM3dpRUp4RFAyYS05RFRKZ2c?oc=5"
+      ]
+    },
+    {
+      "word": "長野",
+      "count": 5,
+      "previousCount": 5,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 36,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/f4fb6930dadf57a8de6febca31fb1d02a844882a?source=rss",
+        "https://news.yahoo.co.jp/articles/cccb94d814d332ea8a112bd36c5cb32a54469beb?source=rss",
+        "https://iida.keizai.biz/headline/1761/",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE13eEVWWmJuYnlnOHFSaFMzeWc2ZjFUZG5lVDlvYTVSSWJDaDdFTVZmamdGUmdVMU5Wa2djUGFrN2pFNXZBc1JnZk5rR2ExSEd2QlAyX3MwdjloU1MwTktCUjZjUEo1SUY3UVE?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ObExzc1FmNDR1QTlLcFByMFNRX0xDY1gzNWVITkNUQTJXRFdXaUxxX3RMdDVseHdFZV9RM2lRWHgxaTBHS0MwczNfWmU5ZDhUM3M5TnlOTTM?oc=5"
+      ]
+    },
+    {
+      "word": "みんなの経済新聞ネットワ",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 35,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/45fb9252c56f87834d81bd30ebd10243c471fd30?source=rss",
+        "https://news.yahoo.co.jp/articles/7f3ce33a5c134132eab4ecff17827a85b129ce24?source=rss",
+        "https://news.yahoo.co.jp/articles/cb9d6aa47765a475702cc282d30fc58084a0f75e?source=rss",
+        "https://news.yahoo.co.jp/articles/c56032e1e39eea89f057b0ee4ee8a17e67646134?source=rss",
+        "https://news.yahoo.co.jp/articles/6ebe6ce507fabfef1821c4dbf7ee9afac2a18ab6?source=rss"
+      ]
+    },
+    {
+      "word": "ーク",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 35,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/45fb9252c56f87834d81bd30ebd10243c471fd30?source=rss",
+        "https://news.yahoo.co.jp/articles/7f3ce33a5c134132eab4ecff17827a85b129ce24?source=rss",
+        "https://news.yahoo.co.jp/articles/cb9d6aa47765a475702cc282d30fc58084a0f75e?source=rss",
+        "https://news.yahoo.co.jp/articles/c56032e1e39eea89f057b0ee4ee8a17e67646134?source=rss",
+        "https://news.yahoo.co.jp/articles/6ebe6ce507fabfef1821c4dbf7ee9afac2a18ab6?source=rss"
+      ]
+    },
+    {
+      "word": "日午後",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 35,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/552d3dc1e6946e12a05966fb79876fdbadea06eb?source=rss",
+        "https://news.yahoo.co.jp/articles/fd99f5b19b32a2805fbc323c9ff4bcac9a85ba48?source=rss",
+        "https://news.yahoo.co.jp/articles/6efcaf6aba5b8e1c57bdff003ca76fbbddfb4137?source=rss",
+        "https://news.yahoo.co.jp/articles/5e67cdba9fc404befbbe7725c82eab1643b06903?source=rss",
+        "https://news.yahoo.co.jp/articles/ccec279badb26fbc79a32fa48601c9f4045a4381?source=rss"
+      ]
+    },
+    {
+      "word": "TEL",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 35,
+      "evidenceUrls": [
+        "https://hamamatsu.keizai.biz/headline/3769/",
+        "https://iida.keizai.biz/headline/1761/",
+        "https://yamaguchi.keizai.biz/headline/5421/",
+        "https://matsumoto.keizai.biz/headline/4496/",
+        "https://miyazaki.keizai.biz/headline/2418/"
+      ]
+    },
+    {
+      "word": "豪雨",
+      "count": 5,
+      "previousCount": 5,
+      "rise": 0,
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "score": 35,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqeW5mNVZnZGtTNmNraTBkSk5RZ0tnZFV4VXdpVG9FZlJndEdfcFc4ZmJqc1pZNVN6Z3FMbDlyYklrclRib3I0VHNrR1IzQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UbEVWVUdoYnhOOXByMTYwQm9SeWw2cHZlWDJkTkJyd1gtNGFaRU5hRTlOaEtUOFd4QjZ5YUgtZENYdEpqaDdqRVREbkRFcmxjcjNYZ3JISFI?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xMFF4UTk0Nkw0dmxmNExrNkNvRXFrbnJLYUdPTTQ3RlRwUHo5MGw4VklwaHE4UzVELXhHSUs0MjhNem1McGQ5NGVac01ra0VscDIwWU56V09pQ3dFV1JLSlpvczJSV0dYUGZ0Sks5RkNzenItbFFjdUQ2NXN5VmM?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oVW1GVzFENWZTbjIxdlY0eFZSRS1TVVNXTTBRMV94MEwtTC1GMDR1TDBHVjVJX3JaZ09CTkV0YVhFcUViR1p0ZzlQX1RldGlEUkYxQTkxTWQyMG4xNlZDSF9wSlNFdFFUcVhXNVY1UXZTM3poRVdkWGZibGczeW8?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UU3VBcTkzUzh0MlpUV292WGdTdXZVMVhFRkN1ZnhJQlFrMXMzWTRRWDFuVDJpU0FNYzJDQTI0bG5jcFRYRGtvWURrbFRPcHBLQnFfcmZIT0E2U3BXeVE?oc=5"
+      ]
+    },
+    {
+      "word": "梅雨時期を前に",
+      "count": 3,
+      "previousCount": 3,
+      "rise": 0,
+      "categories": [
+        "写真ネタ化"
+      ],
+      "score": 34,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/cc388349c89fb57bf09b4d66b3a914a0d8afd400?source=rss",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FMkh5N0xuSTJCNlJHanpyU1BPN2FBTF93QVk0MXlJLWVLcUx2X2NuU2t0VW1QaXJYOEhfZXFPMTd5dWdsa0R1R0hlblZxY0dkYWZpcDFkb0VWM3FxaFF3Wl82RlQ2aWh4NDZaTEVyWE9xeUtSUUpaUEN4eG54a3c?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2ZUp6WDRtczNIdFN5dmdxQXlxSHRjZ3d1U2JBN2EzTWxpazIyQnA4dk85Y0U3bW9QMTMxU2xuX3AyRWhUR2VTWGF0YS1MRi1ydUdFRVNBNlV6N19laDFURlJ6ZFdJQjA?oc=5"
+      ]
+    },
+    {
+      "word": "が開催される",
+      "count": 6,
+      "previousCount": 6,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 34,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/7f3ce33a5c134132eab4ecff17827a85b129ce24?source=rss",
+        "https://www.shibukei.com/headline/19906/",
+        "https://chikuho.keizai.biz/headline/259/",
+        "https://chichibu.keizai.biz/headline/1054/",
+        "https://sayama.keizai.biz/headline/70/"
+      ]
+    },
+    {
+      "word": "が現在",
+      "count": 6,
+      "previousCount": 6,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 34,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/c56032e1e39eea89f057b0ee4ee8a17e67646134?source=rss",
+        "https://nagasaki.keizai.biz/headline/2500/",
+        "https://ginza.keizai.biz/headline/4488/",
+        "https://hakata.keizai.biz/headline/4784/",
+        "https://morioka.keizai.biz/headline/4515/"
+      ]
+    },
+    {
+      "word": "北海道新聞デジタル",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 34,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMlBsYUxBeHY3aGZYTUw5SGFMZGpjbnZyWU9JU3RpX3NseHROUGVPQXRSV1VNTXdnQ3RUbTc3UFNQYWQyLXZkSHA4US1aTjJzeE8xdS1TQ0p4Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XS2F6TFFla3UzTHZfdVg2a19oa2VQejBPWU1pTEs4MWtEZWROdVo5dG5ONjJhMEFydUJBT01YSGU2NnVfbnk3blZzY0RFQ1dRd3g3RWFHSlowdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUdHFQb25aOFZoM2hiM0Y3a0llQUVOdnZLZ181ekFNREZXdWZ1WmVIb2VQZWRVYnVnV0VvMjNKWVY3ZkdleThRbnRaUGRZcWJ6NXlWOVFnQlhBdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LLXlCcjd1bENPOXpPY2FHa01JYVRjVDltTndqLVFfZmZJRUVEWk9uN3o0N2owUWxCQzAzYktMREUzd2liZldqUWY2WkhybVlHUzFWam1OcFBhZw?oc=5"
+      ]
+    },
+    {
+      "word": "TBS",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 34,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wM1dZcVJqOTFGNW5BdGltTHpjS1hqUHc4NkV6SkVFVGxTUHRVNTB4OGRTeGRUZktIRDQyRE5hU1k2RnV2RW5aMnI4N1k4ODI5X3pIRGd4a2dRdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xUzAzcFFoUDhXSFczcU5faHUzSkFWUld0TkVCMEFwSVJzcmtxbVpLOFVhaFRwQTFLRXpJYlNockVIOVFiRklXYktkcWN4b211MVcxWjNFRXVCTjliNjJjMTZ5MW0?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2ZUp6WDRtczNIdFN5dmdxQXlxSHRjZ3d1U2JBN2EzTWxpazIyQnA4dk85Y0U3bW9QMTMxU2xuX3AyRWhUR2VTWGF0YS1MRi1ydUdFRVNBNlV6N19laDFURlJ6ZFdJQjA?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MZ2xhMUtIN3NOQWRxS0FwVUZfMUIwVzBrVllldG9XV1RXYVI0ZnpEQ1pxZXpJUDExbDB6Q0p2VzNwWFR3bS1TUklXQU04ZDlWVE5qYVVlRnZ3Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CNXpEUE9aOEZlSW5CeUtSc0ZFa0l4eUpHNF8ySVpaQnlPUzZUcm94TFA0OVRaT2pFUlNvM0ZKbHdMTTlEYkMyam9ESld0UkE5Sm91T0V5c2pYOVk?oc=5"
+      ]
+    },
+    {
+      "word": "DIG",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 34,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wM1dZcVJqOTFGNW5BdGltTHpjS1hqUHc4NkV6SkVFVGxTUHRVNTB4OGRTeGRUZktIRDQyRE5hU1k2RnV2RW5aMnI4N1k4ODI5X3pIRGd4a2dRdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xUzAzcFFoUDhXSFczcU5faHUzSkFWUld0TkVCMEFwSVJzcmtxbVpLOFVhaFRwQTFLRXpJYlNockVIOVFiRklXYktkcWN4b211MVcxWjNFRXVCTjliNjJjMTZ5MW0?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2ZUp6WDRtczNIdFN5dmdxQXlxSHRjZ3d1U2JBN2EzTWxpazIyQnA4dk85Y0U3bW9QMTMxU2xuX3AyRWhUR2VTWGF0YS1MRi1ydUdFRVNBNlV6N19laDFURlJ6ZFdJQjA?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MZ2xhMUtIN3NOQWRxS0FwVUZfMUIwVzBrVllldG9XV1RXYVI0ZnpEQ1pxZXpJUDExbDB6Q0p2VzNwWFR3bS1TUklXQU04ZDlWVE5qYVVlRnZ3Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CNXpEUE9aOEZlSW5CeUtSc0ZFa0l4eUpHNF8ySVpaQnlPUzZUcm94TFA0OVRaT2pFUlNvM0ZKbHdMTTlEYkMyam9ESld0UkE5Sm91T0V5c2pYOVk?oc=5"
+      ]
+    },
+    {
+      "word": "大分",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 34,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54X3hsVnY4OWhFMk5DWTNxVUljb1ZQeWtBRXFXajdCRzB0b2dwdF8wc2lKY1BGdnBreFdPMDdScUhDdHM3VERIOWZFOV9WT2pOMWJrZ29wQ2dXVEZL?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aQ2hWU3NYMnJSSGhSejJzNnowWDRmUFFOSVVUZzNRSFZsenZfdEFqY2tvdE1Ud0YzTWRBczZ5ckZTTm41ZkxzYmM2eWN6cWxWLUdwaExzMDFYVVRESUx5T0Zuc0tuUlk4U1RSWGM0S01WcE14Yzctcm1ib3Rwdm8?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aUk5ZYnFQRUJoMzhNN3VIcTUwTllTMUhHWEFqZXhzX1VCSXd3ZzBuNFlPd3hQbWxGQzNReXJuWnZrVnI0Z1FGMENsX3FZVGRtUTM1VHFTR3VrZnlGandEdDV2Z0FCMklMUjBDQnp1N08weDJrNVNqRU1mSUtMYVU?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQWtSeFVKTkcxZTJjeC1zRlZvVDhjb3k4a2g0Wjk4bVY1MUhiRkRWRmRXN05qYVB0WmFPZVBEZXlHeVExSEhQai11a3p0Q0paZl9JS0s2S0hlRUNzRURLcTF6TDdsUlBRMG91ZEJwUUlMd2tDNTItdzZxek5lazA?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OWmhCM2dNcXhZSDlac3hRaElPcXdRRWM1MFB2RzhZSEVPOXhseTMtUElCUTEyclR1NEdqRjN1YldLYWJzTG0tb25FWXFqYW15NW9tREpJY3pPeFYtVUQ1UzFna3JFbXJIRDh4SkUtc2txYkRvNnZpMDRoYlhzdEU?oc=5"
+      ]
+    },
+    {
+      "word": "兵庫",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 34,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTelJUU0NqNGREU0x5bE40MnZLOVJwQl9vWXN0cEg5QmdRRHJZS2RDLWRlMnNETGY3QTBIWjBUS2x5Nmx2SmRpN0YzSnFjZ2pCZU5ZdnVqQ1VsQ1c3WHpmcFBybEc3Q1ByZXdVYUFCbHNIcVZJdWpibjQ2SXlOcDg?oc=5",
+        "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41WXlLOUFuV0VBMG9UdllIRXhKeE51RmlfbjRpMXNrVTJTRWZ5al91bXJnTl9TZ1JaNGlXWDAzYXN5QXJ1V2pkRWVNdWRsQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrY05QMVUxVXNYYUJ3WUxCX1o4SnNkbkRyalZzam5rd2lUS3Y1Vm1tQjBaNmJqeXFZZWVrcmlnOVJCNUgyZ0I2VVpBRXVxMWFBTExELTlQc19oY25yYzhsSW9LZWF0ZDRMTjdHREV5MXNiQS1kTDhWZE5oR2RIQzA?oc=5",
+        "https://news.google.com/rss/articles/CBMizgJBVV95cUxNeV9vTkJXLVdyUF9GNmhaMDRUY0dDYUdQel9mN2ZxVnd1aXhEaXM1UmNrRGFpbGVVbHkyZ2p3d3loREl5S19NOHdaR25TaVliQnVPSzdmMVRxWEJHOWVMcVZvVkczX0lUVTY4Zm1QdWd1ODROMlBJLW5wMWdmdHB6THN0dHRsNXVtQ0tkMnB6aENOTVpkdkdnaC14OVdtekJTQjRUN2NRWVk1ZV91LTE3cW9zR29UdUJJSDB3a3JxcUJySlh4elBQSWRWWWxrT25CQmxiVmgtZUlMcXNqbWFhSnZtdWhVcDI3c2JGYjViSndpUWdQMnY1b3JQTUVXMW5FVnRQem8zS0lVdFhFekZzRFJaX3c0czMzR1gxOVpTbTFyY1lYdk5nWVBnTklFRzk2QVhySUNEbng4QUI5RDZCUUpPQlNpaDlaYl9rdEF3?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvRTBJWmhwZy1SSFVNNzFoNkhnbEZjak1yS0szbU5MQ0Q1Smd1Y0NEanZ0UGYzVzZ2QlFEM2dpNW9YWGh0c2J0dmZwSDYyQkV1Z3ROdk5xUzBta2EzVWc?oc=5"
+      ]
+    },
+    {
+      "word": "NNN",
+      "count": 7,
+      "previousCount": 7,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 34,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3ZRNzVCb3AxdmkwVENOQ3R5RVhHM3E0RHQtcjllZFkxSWRac1BIMDkxdlhaOXpOZDVwNDdkdXVoRDJpdzFQTUlwLVVqM2tnMnhraUp3QTZqS3gxdno1OXdLdVhnUUgyNU54cm02VzFqeHZpVjJ6RkdFRkNjV01UTFBHMFZnb0U?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX25nMS1rdlBkcVlwdldYRXpGYkdNaWZvZklOS2Q2cWJXWUJKcWtYZXd1VXFzOEQtTHV1SUxxUFNCRUV4SnJsNzRGWFo5cThxMXE1dmxwM3NIUE9KVUd2VFJDdURhU08zSTlWczFFdzRabkZ0VFlnaHlVQzhPOTNiMS1VVktyRXc?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUQwdVhpT3ZvZ2JRN1lFSy1FY2U0WGl5OEZxbmZ4bEFvOXFNb2NTTy1RY0xHMzhpQzJHV3YxNEpNdy1WeUlyaHhsSlI3a0ZSbnh4S0dxVDZOTnRwU2RLV3BSeVMwSlNEbWxxLXoxS2tfbDlUbkJDX2JEWW56RVNMUHdtZkZOQ0k?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVjdFVWlxMjF3enZHVDBNUXJ2cEYycDRSdTFRcGpkYmRhTzJ5OEtQWTBhaC1JRVRlMVdvMUlJTVhqOXVRNGdwajNOSkZORmc5TU8tNlphY1NGN1hqYlVkMmJOM1FJSXhSRjkySThCZTI3WThSc2JnaVMzeTZ3VUh5aEoyNWQ0WEE?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNem9iRWE1Y0JWdmdIRW8tRUk0T2lQaHowa212OXk1cUg2RHU2R2tabW90SEdiV0U1VHlqVnNQOUlHejZiS0pZdmRJbk5TekJGbHFYY052RC1OMWtKdnBCcHFGTzdMTlEzYzlxTWFrVU1VdVJJekNxS1A0Wi1LXzZDUFBfYUNmZFk?oc=5"
+      ]
+    },
+    {
+      "word": "新潟",
+      "count": 5,
+      "previousCount": 5,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 33,
+      "evidenceUrls": [
+        "http://www3.nhk.or.jp/news/html/20260512/k10015119151000.html",
+        "https://news.yahoo.co.jp/articles/ba02b669f9b2b3d54c18f652c9cb75a623def2cd?source=rss",
+        "https://news.yahoo.co.jp/articles/c3c1db249958b7f23e69a2d0acd8762d79f39f32?source=rss",
+        "https://news.google.com/rss/articles/CBMiywJBVV95cUxQWDgyQXhzZ0xVRkxpUXUwTWJLSkpGbHFJYzBuZlh1SlIteUJTbnZtWlN2MUlWZVpWdS0zNzhKb2NURnBrM3d0UVBYbHhKdEJSZkFZQXAtb2F2blpqNWlhNXBYWDdqUzZnUDIwMHZaQjlZa0FJVmYxWjVIaHhZeWZRVzNKTS1ibGl1MjJkbFU3aXA1OW42cmNBTjZMTWVsVXZ3bDdud1ozdlVlSUtaT2wzNHk0TjR6eVN4aGw0Z0xKc1EzcmZ3NThZTGFMekhiT0EtT1RCTFN2a3NmQU8wRXNaRmhoLU54SHh5UG1uaTE2OUs5YlhSQUxPRC1mU1Nsd3JhQm1zdUYtOFk1X0lwNzJFdUdZVzNtQ0xwUjNueWN3OUN1Sno1d3RVU09vVV9STVJrdDVmYVNBaldNU0U0RFcxS1ozTXdlaVRBczNB?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WLTFGb3JmdzN0Z2pnTnZUZGNzSkRpZ0xQcXhzRHlqUTJWZW9JbzdxVlBucnJuZzdaX0d6X1J4UXljYlY1eUxVMnBGNVFJanRrdS1oWHExbnBrY2oydXc?oc=5"
+      ]
+    },
+    {
+      "word": "鹿児島",
+      "count": 5,
+      "previousCount": 5,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 33,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/73b0089ba63ee8bea051c107810df66bde6739eb?source=rss",
+        "https://news.yahoo.co.jp/articles/910c06f9ba2c7dc4594da74400d8553b80a902fa?source=rss",
+        "https://news.yahoo.co.jp/articles/edffcddcea6b8627ac91c3a13fd182166ad11502?source=rss",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xMFF4UTk0Nkw0dmxmNExrNkNvRXFrbnJLYUdPTTQ3RlRwUHo5MGw4VklwaHE4UzVELXhHSUs0MjhNem1McGQ5NGVac01ra0VscDIwWU56V09pQ3dFV1JLSlpvczJSV0dYUGZ0Sks5RkNzenItbFFjdUQ2NXN5VmM?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUk5OU3VTV0pKOWxHTlA4T2NWcDdFZFRwTS1xRGNmdm50b0YyOW5TNWFqTlpnS2FLUk9nTTBjcEU1LWF3aXdaV2lGZ0dGZWZmOVhjeXhSb0xyT2FzTGtGbnRrNUl0Q010cEplWmJYZ3NySHcxY3lRZmJTbVY5NzMtR2lxeTBPXzc5YWVvaS1pVQ?oc=5"
+      ]
+    },
+    {
+      "word": "熊本",
+      "count": 5,
+      "previousCount": 5,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 33,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/77b907271b49a63a353e47e5b3a0ebe722e97653?source=rss",
+        "https://sendai.keizai.biz/headline/4409/",
+        "https://kumamoto.keizai.biz/headline/1196/",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRb2ZjT0RtaUkwR1B1RjM5TENSOWN5eV9QbXB6WVcyWHBPMTJtS1o2WGk3NUdrejEwa0haY3lRVnpxd3pKNEtmU2t2WlFpVk9GRGNUM3hHSkMtc3UyN04yQzN2Y2dySEY2V0dSOXA3YnV0T2hhV2tUMlpGZXRfU1k?oc=5",
+        "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5meG1kaTAtQzNuWWdVTU9FUVRvcU5POWl5WjZFY3RpbGFhM0xQRHNXSC1NLWM5T3h4VVNDZE4ydmNPU2VMLUxya3ktQQ?oc=5"
+      ]
+    },
+    {
+      "word": "福島",
+      "count": 4,
+      "previousCount": 4,
+      "rise": 0,
+      "categories": [
+        "地域名"
+      ],
+      "score": 32,
+      "evidenceUrls": [
+        "http://www3.nhk.or.jp/news/html/20260512/k10015119151000.html",
+        "https://news.yahoo.co.jp/articles/f4fb6930dadf57a8de6febca31fb1d02a844882a?source=rss",
+        "https://nakano.keizai.biz/headline/3325/",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE04QmNFSVRsU1JDUjhTWUtPdkhqczB6UWdUNkE2czc1bWM4Q0lXR2dKbWowd3NBMlF3aFViR1JSNWNCOU9vbVVvb3gxSHpTblE3Rzk0bWtpSU1zckV5OHBpdXQtR1EyaGN5a0ktaUhVVkxwUmttTmxFa2JTamd4X2c?oc=5"
+      ]
+    },
+    {
+      "word": "静岡朝日テレビ",
+      "count": 6,
+      "previousCount": 6,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 31,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/c57665635be1beb76023011e337a49abd2ff6f93?source=rss",
+        "https://news.yahoo.co.jp/articles/32fca33d04f373d3651c896d3f5fbf70c9ba9e88?source=rss",
+        "https://news.yahoo.co.jp/articles/f3f8655a7c8be29e1eea83342afdd4ea866b5cc0?source=rss",
+        "https://news.yahoo.co.jp/articles/e8b24693cab661dc3a12f7bfdeb2ec5c449f7a83?source=rss",
+        "https://news.yahoo.co.jp/articles/9626735f5ae1cb26125604f1e8b73e13054ed7cb?source=rss"
+      ]
+    },
+    {
+      "word": "日間",
+      "count": 6,
+      "previousCount": 6,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 31,
+      "evidenceUrls": [
+        "https://kujukuri.keizai.biz/headline/220/",
+        "https://hikone.keizai.biz/headline/689/",
+        "https://urawa.keizai.biz/headline/1074/",
+        "https://nakano.keizai.biz/headline/3325/",
+        "https://sotobo.keizai.biz/headline/751/"
+      ]
+    },
+    {
+      "word": "災害時に自力避難が困難な",
+      "count": 4,
+      "previousCount": 4,
+      "rise": 0,
+      "categories": [
+        "写真ネタ化"
+      ],
+      "score": 31,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wM1dZcVJqOTFGNW5BdGltTHpjS1hqUHc4NkV6SkVFVGxTUHRVNTB4OGRTeGRUZktIRDQyRE5hU1k2RnV2RW5aMnI4N1k4ODI5X3pIRGd4a2dRdw?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yOEZ3SGhUdW02V3p2bWlYLVFkWWR1Rk9taFdWbk1ZbXlhRjNJWGV5QTlSV1E4TzFhZVlhZE91ZDR6WGcwUXBSYUEwN0NnUHFIelVFc0RzMWtkSHNnZVFOSWYwV1dKMEg4UzE1QklDMGtrMlk1cUtfTTd6ZnJrS1E?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xUzAzcFFoUDhXSFczcU5faHUzSkFWUld0TkVCMEFwSVJzcmtxbVpLOFVhaFRwQTFLRXpJYlNockVIOVFiRklXYktkcWN4b211MVcxWjNFRXVCTjliNjJjMTZ5MW0?oc=5",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YcnBFNU9USHlqRDJJTGJNVlBKV0pTNy03VkRzQkZNaVZmNDBMbzZMS3gzakhDaEhLQ25obHdmZHY3aGdzUVFLeHJVTnpRaE04YXZiMzFIMm5nSGExZlFOXy11bEhOaE5KNzEzbHQ0WEpxV2NUWHRiODAtcw?oc=5"
+      ]
+    },
+    {
+      "word": "河川",
+      "count": 2,
+      "previousCount": 2,
+      "rise": 0,
+      "categories": [
+        "写真ネタ化"
+      ],
+      "score": 30,
+      "evidenceUrls": [
+        "https://adachi.keizai.biz/headline/675/",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EM2tuYzdvemlsR0pISmNyWE81VG5pUFdCeHNCX2tseGE5Yk5HZEtITHhhZjNpZDJ0T0hxVk9WQzFoa0ExdWlCOGNxdXhabGpheWkxbHNTQmN3enIxZEc5U0VhTjVJUXdCd0Z1VVJ2MWM0S21aSUFSdnlFblg0eEk?oc=5"
+      ]
+    },
+    {
+      "word": "メートルのクマ",
+      "count": 2,
+      "previousCount": 2,
+      "rise": 0,
+      "categories": [
+        "写真ネタ化"
+      ],
+      "score": 27,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/fd99f5b19b32a2805fbc323c9ff4bcac9a85ba48?source=rss",
+        "https://news.yahoo.co.jp/articles/5e67cdba9fc404befbbe7725c82eab1643b06903?source=rss"
+      ]
+    },
+    {
+      "word": "日の",
+      "count": 5,
+      "previousCount": 5,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 27,
+      "evidenceUrls": [
+        "https://kujukuri.keizai.biz/headline/220/",
+        "https://hikone.keizai.biz/headline/689/",
+        "https://urawa.keizai.biz/headline/1074/",
+        "https://nakano.keizai.biz/headline/3325/",
+        "https://sotobo.keizai.biz/headline/751/"
+      ]
+    },
+    {
+      "word": "土砂災害に注意",
+      "count": 3,
+      "previousCount": 3,
+      "rise": 0,
+      "categories": [
+        "写真ネタ化"
+      ],
+      "score": 27,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rNUIzVXV3ZXB5SlN6WnM4SGhVRHluMTRGUjY4VE5DbFhmVzQ1SDd3bUlXWXlYbkNGRXhhTWtFZHhsVTV4V3Q1TDMxRzlGV191YnprcU9WZmpYQ1ZUYnh3MXJBZFRXNk8tQ3B5ZlV1RlBmV0x6NkdWMXJYY0szejQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fTDRtSld1LVBhU1lvV0QxbUtWYUMzZnBDN2NVTmZ5ZWVwQkx1RkEwT0RVR3ZIeXd4SzNxUGpZTFNySU5pR293STVyZTcwM2NxQ09DVlczb3ZJX2VOUHRLaw?oc=5",
+        "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVcEVfdlNvZkJqTG9Xc2U3YkZHdWxaVFZPQlRSdWdYOUNzYnpuOVJsWUdSR0NVUUlaM3hHT3JTZ2d2NmNtZ19FNGYwRQ?oc=5"
+      ]
+    },
+    {
+      "word": "水不足",
+      "count": 3,
+      "previousCount": 3,
+      "rise": 0,
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "score": 27,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE12ei1WU1lYRi01MHpVbFBRcEdsOTEwdjJ0THZIV3BaZWc5blVwVkNIUm1lN1NTZWRoU0FFYm80OF9HRnlXblZPT3kxN3JwUWZiaTVFMm1RaDJlQmg5WjhKZFZtUERFaW52S2ZHbDRVQTVqRk9RSGpmWDVmQTE?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FaTJzVEdJRjNPU2dhMEpQSUotVmNrdzE1RnFpNHFqcmNldHZhOUNEeTJFUEJ5VVFtMFZYOTFlUTZFXzVjZFdHR2wtY2MwcWpKSlpxVkhLaU13Tm1OTk1vaTBRa1NjbjE1M1NoZHd2eUFTSGJGOWkxeEZXLVdfaEk?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aSHNkZENPcGhTODc1SHB0cEtwQWV1eC12RlRmbW0wU2k4YTQ2ckNhTjdVVGlXOXNMakNPRWNHVTAweEtqeGdtYTRsbThoSDFubk9UTHBrTzcwdmcyYjg1clRFbEczNHRjQ3dRdmV3?oc=5"
+      ]
+    },
+    {
+      "word": "雪",
+      "count": 3,
+      "previousCount": 3,
+      "rise": 0,
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "score": 27,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42RjNSMktkcTNSbWd4YkNxVWtLbnNXb294TmRwSUhkM3RRRHcwNUVGYkJKWXkwN3BZazJ2Rk5OVWMwWnMwbEpmM2k3MWhUNGx2cWpRQmZB?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40TjJFQ010dXF6R2hZcnlrU1NRbU9ad1ZLdGVCdW9rcmN1clZvYnZqME1IQ09FU0xWRERpbmR1dl9jTjRoQ0Zaa2RpY3FKVUVEY29CbGwyS1hzcDVna0JV?oc=5",
+        "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VNFBhU3NWWUswVTB6TmF5dFVBNTdfSDFGT1VjQnJQMWF2b0thdmhSdlN6dzBNNjAxMkxWa2VfYjNDRUQ1eTBmSEpvYw?oc=5"
+      ]
+    },
+    {
+      "word": "神宮外苑再開発",
+      "count": 3,
+      "previousCount": 3,
+      "rise": 0,
+      "categories": [
+        "写真ネタ化"
+      ],
+      "score": 27,
+      "evidenceUrls": [
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wSGFlY2Ywc1g2V0RzbVlIWGdHSEwwcElEbHhmbWQtNENvMlNfT3g3aEUwLUZqaTNBOVA4aTFadkZTNEh4Mng4MFdSc0Q2M3JrSUpCYkFfcWkzQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEcmF5NjVKOTYyOTIwNVpqcGNQcjFPdFV3ZlV0Tm5MUk9Qb0FCNnpoNm5jTGR3b3ZBOGtuN1pMMHloYkxRQnFwblZYdnVCVmI3LW1SV3dNNGhUSDV0QXMzUVZWcW9DY29JOXppZ2FMalhCV3RQNXBsT0VHMGdCamc?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54OXRlS0JRWmZhQmpia3FwQm5NVjVoNnRsaFlCMGFoQVNLWTI1akhRVzRXMXp2UF9sc05mam11QWpGRkdTT2w0M3pmN1lFWC1FZy1qSVlIcmRxOW5ManNVemIyVC11YXND?oc=5"
+      ]
+    },
+    {
+      "word": "MBC",
+      "count": 4,
+      "previousCount": 4,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 26,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/73b0089ba63ee8bea051c107810df66bde6739eb?source=rss",
+        "https://news.yahoo.co.jp/articles/910c06f9ba2c7dc4594da74400d8553b80a902fa?source=rss",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xMFF4UTk0Nkw0dmxmNExrNkNvRXFrbnJLYUdPTTQ3RlRwUHo5MGw4VklwaHE4UzVELXhHSUs0MjhNem1McGQ5NGVac01ra0VscDIwWU56V09pQ3dFV1JLSlpvczJSV0dYUGZ0Sks5RkNzenItbFFjdUQ2NXN5VmM?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE15U01vLVVGRGRkTlNORzJ0WFc2aTlkSERaaEJkNGpPNnJ0eVBISkhOaml5Q1hrTnlnYWp5UEJqUWVWNGZPRkU0Wm9vekZkRkx1dEFFMHV6WWpBV0RMV0NQWmxPb2puMTdYTktMVGdKR1ltWUcxTHU5enRKRHhlaVk?oc=5"
+      ]
+    },
+    {
+      "word": "南日本放送",
+      "count": 4,
+      "previousCount": 4,
+      "rise": 0,
+      "categories": [
+        "一般"
+      ],
+      "score": 26,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/73b0089ba63ee8bea051c107810df66bde6739eb?source=rss",
+        "https://news.yahoo.co.jp/articles/910c06f9ba2c7dc4594da74400d8553b80a902fa?source=rss",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xMFF4UTk0Nkw0dmxmNExrNkNvRXFrbnJLYUdPTTQ3RlRwUHo5MGw4VklwaHE4UzVELXhHSUs0MjhNem1McGQ5NGVac01ra0VscDIwWU56V09pQ3dFV1JLSlpvczJSV0dYUGZ0Sks5RkNzenItbFFjdUQ2NXN5VmM?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE15U01vLVVGRGRkTlNORzJ0WFc2aTlkSERaaEJkNGpPNnJ0eVBISkhOaml5Q1hrTnlnYWp5UEJqUWVWNGZPRkU0Wm9vekZkRkx1dEFFMHV6WWpBV0RMV0NQWmxPb2puMTdYTktMVGdKR1ltWUcxTHU5enRKRHhlaVk?oc=5"
+      ]
+    },
+    {
+      "word": "埼玉",
+      "count": 4,
+      "previousCount": 0,
+      "rise": 4,
+      "categories": [
+        "地域名"
+      ],
+      "score": 26,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/45fb9252c56f87834d81bd30ebd10243c471fd30?source=rss",
+        "https://news.yahoo.co.jp/articles/1a4960f38f419df08a7b99b2a4b50e02326af91d?source=rss",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5QmFLTk81aU01YURPWEwyRGpTb09PSXZpeUNfQVpvc015LW5KRmUzQ0NsVUlBNHpYeXpmUDRqdWdDYXY2cEM5QUNZM01jT3U0QmZIT2hfN0hFdjJRQmlPWE1DYmRIWWhnYnNIN1ZWendDMmVvb3FjN2Nrc2wxYlk?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iRmRUaE1paXRRekVsOWVSSXdFQms2ZG5vM0ZXSWJmWjVycTZKT0JrMm52MDJLZWNyT2hpQW5ZLXlWVHZPLV9IdDI3WHJGaVNPZ2ZjMVhXZlE?oc=5"
+      ]
+    }
+  ],
+  "risingWords": [
+    {
+      "word": "埼玉",
+      "count": 4,
+      "previousCount": 0,
+      "rise": 4,
+      "categories": [
+        "地域名"
+      ],
+      "score": 26,
+      "evidenceUrls": [
+        "https://news.yahoo.co.jp/articles/45fb9252c56f87834d81bd30ebd10243c471fd30?source=rss",
+        "https://news.yahoo.co.jp/articles/1a4960f38f419df08a7b99b2a4b50e02326af91d?source=rss",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5QmFLTk81aU01YURPWEwyRGpTb09PSXZpeUNfQVpvc015LW5KRmUzQ0NsVUlBNHpYeXpmUDRqdWdDYXY2cEM5QUNZM01jT3U0QmZIT2hfN0hFdjJRQmlPWE1DYmRIWWhnYnNIN1ZWendDMmVvb3FjN2Nrc2wxYlk?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iRmRUaE1paXRRekVsOWVSSXdFQms2ZG5vM0ZXSWJmWjVycTZKT0JrMm52MDJLZWNyT2hpQW5ZLXlWVHZPLV9IdDI3WHJGaVNPZ2ZjMVhXZlE?oc=5"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "topic-712j5x",
+      "trendWord": "復旧",
+      "title": "「復旧」を写真で追う: マネーフォワード、銀行連携サービス一部再開 三井住友などで復旧 - 日本経済新聞",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcVQ1Z1paSjNTN1cxa19Kb09yT1F5QkZYaUhEX3hYWnNLdUlORUhMRzlmRG0xZDl1elNCT1VibWRQeVRPS0tlLUZzaUFhamtZNlp1T2RsbTFUSEZjYlQ1bnlLUllNUzVHT1g3aw?oc=5",
+      "evidenceTitle": "マネーフォワード、銀行連携サービス一部再開 三井住友などで復旧 - 日本経済新聞",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T03:28:53.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "復旧"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.100Z"
+    },
+    {
+      "id": "topic-1fhcp0q",
+      "trendWord": "復旧",
+      "title": "「復旧」を写真で追う: 厚真の断水や濁り水、補修終え復旧 - 北海道新聞デジタル",
+      "photoCandidates": [
+        "水位・農地・給水対応など、記事で触れられた影響が見える現場",
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTVFMUFMyaF93VUFiakMtZFdVLU5URlJkcEVTUmpSdnJ6b3pxR0FqeWQ4VVZ6dHFMUTVRM2NuLXQ2Ym9jZ3YzNUd3NzNsWjNQZ1JwZ1dGWDNpUQ?oc=5",
+      "evidenceTitle": "厚真の断水や濁り水、補修終え復旧 - 北海道新聞デジタル",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T13:05:23.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "北海道"
+      ],
+      "keywords": [
+        "復旧"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.100Z"
+    },
+    {
+      "id": "topic-167vho1",
+      "trendWord": "復旧",
+      "title": "「復旧」を写真で追う: 【山形】離島・飛島での大規模災害を想定して、復旧機材や作業員などの搬送訓練（YTS山形テレビ） - Yahoo!ニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQnh0MTIxODYtX0dSd2E5MHBHOEgzM0lNeHg0anlXUm5vRHRGWEZXZVNMTTRrNm5OeXJjQmRHM0JKSlF4OVRXWlFRX3B0dHM2Tm94cnZJLVh5WUxySlpITDc4RkhWcnVTT2F1QWlzZUN0SXFxLV9oQjhRNTcxOVk?oc=5",
+      "evidenceTitle": "【山形】離島・飛島での大規模災害を想定して、復旧機材や作業員などの搬送訓練（YTS山形テレビ） - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T10:05:46.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "山形"
+      ],
+      "keywords": [
+        "復旧"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-gdwpvd",
+      "trendWord": "復旧",
+      "title": "「復旧」を写真で追う: 八潮道路陥没事故 最後の復旧工法検討委／埼玉県（テレ玉） - Yahoo!ニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5QmFLTk81aU01YURPWEwyRGpTb09PSXZpeUNfQVpvc015LW5KRmUzQ0NsVUlBNHpYeXpmUDRqdWdDYXY2cEM5QUNZM01jT3U0QmZIT2hfN0hFdjJRQmlPWE1DYmRIWWhnYnNIN1ZWendDMmVvb3FjN2Nrc2wxYlk?oc=5",
+      "evidenceTitle": "八潮道路陥没事故 最後の復旧工法検討委／埼玉県（テレ玉） - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T09:52:23.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "埼玉"
+      ],
+      "keywords": [
+        "復旧"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-zmaiiy",
+      "trendWord": "梅雨",
+      "title": "「梅雨」を写真で追う: 大規模災害に備えて連携強化を確認 福岡県や自衛隊などがトップ会談 梅雨時期を前に(RKB毎日放送)",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/cc388349c89fb57bf09b4d66b3a914a0d8afd400?source=rss",
+      "evidenceTitle": "大規模災害に備えて連携強化を確認 福岡県や自衛隊などがトップ会談 梅雨時期を前に(RKB毎日放送)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T14:51:17.000Z",
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "福岡"
+      ],
+      "keywords": [
+        "梅雨"
+      ],
+      "trust": 0.86,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-1bhjcbb",
+      "trendWord": "梅雨",
+      "title": "「梅雨」を写真で追う: 清澄白河で「アンブレラ展」 猫キャラクターのデザイン傘そろえる",
+      "photoCandidates": [
+        "「梅雨」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://koto.keizai.biz/headline/862/",
+      "evidenceTitle": "清澄白河で「アンブレラ展」 猫キャラクターのデザイン傘そろえる",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-11T12:15:08.000Z",
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "梅雨"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-143coui",
+      "trendWord": "梅雨",
+      "title": "「梅雨」を写真で追う: 梅雨を前に災害危険箇所を視察 防災体制の強化へ「非常食の備蓄や避難場所の確認など身近にできる対策を」 - ktn.co.jp",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+      "evidenceTitle": "梅雨を前に災害危険箇所を視察 防災体制の強化へ「非常食の備蓄や避難場所の確認など身近にできる対策を」 - ktn.co.jp",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T10:00:00.000Z",
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "梅雨"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-m20qc5",
+      "trendWord": "梅雨",
+      "title": "「梅雨」を写真で追う: 「自然災害が頻発化、激甚化している」梅雨を前に知事と防災機関トップたちが意見交わす 災害発生の際の連携強化 福岡 - 福岡TNCニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNlZXeXhReHJKeWVKSVJhbjFHLWlPdVlWNnNrUDFYOUx2YjZIRjFsNmppQjg1TUszeTRTdFRpcVFYXzM4bGJUUjIxWTlEOTJDUk85Q0lpSlFwRXNmTmNMRTFQRQ?oc=5",
+      "evidenceTitle": "「自然災害が頻発化、激甚化している」梅雨を前に知事と防災機関トップたちが意見交わす 災害発生の際の連携強化 福岡 - 福岡TNCニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T05:38:22.000Z",
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "福岡"
+      ],
+      "keywords": [
+        "梅雨"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-93k29y",
+      "trendWord": "港",
+      "title": "「港」を写真で追う: 「佐賀空港近くの土手に死体がある」佐賀市の畑で女性遺体 5月12日午後3時20分ごろ(佐賀新聞)",
+      "photoCandidates": [
+        "「港」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/ccec279badb26fbc79a32fa48601c9f4045a4381?source=rss",
+      "evidenceTitle": "「佐賀空港近くの土手に死体がある」佐賀市の畑で女性遺体 5月12日午後3時20分ごろ(佐賀新聞)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T13:03:20.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "佐賀"
+      ],
+      "keywords": [
+        "港"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-xccnfe",
+      "trendWord": "港",
+      "title": "「港」を写真で追う: 八戸花火大会、今年は8月22日 初の土曜開催でにぎわい創出へ",
+      "photoCandidates": [
+        "見頃の花、来訪者、管理する人、周辺交通や混雑"
+      ],
+      "evidenceUrl": "https://hachinohe.keizai.biz/headline/2612/",
+      "evidenceTitle": "八戸花火大会、今年は8月22日 初の土曜開催でにぎわい創出へ",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-12T10:32:07.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "港"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": true,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-f2e5oo",
+      "trendWord": "港",
+      "title": "「港」を写真で追う: 香港のランドマークに新たなシャンパンバー 25種類をグラスで提供",
+      "photoCandidates": [
+        "「港」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://hongkong.keizai.biz/headline/2869/",
+      "evidenceTitle": "香港のランドマークに新たなシャンパンバー 25種類をグラスで提供",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-12T08:54:25.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "港"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-1wve75s",
+      "trendWord": "港",
+      "title": "「港」を写真で追う: 新橋にランチ限定「 新橋カレー 舶来」 一石三鳥グループ新業態",
+      "photoCandidates": [
+        "「港」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://shinbashi.keizai.biz/headline/2623/",
+      "evidenceTitle": "新橋にランチ限定「 新橋カレー 舶来」 一石三鳥グループ新業態",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-12T03:54:29.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "港"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-crct2b",
+      "trendWord": "再開発",
+      "title": "「再開発」を写真で追う: 神宮外苑の再開発、伐採許可取り消しを求めた原告側が敗訴 東京地裁 [東京都] - 朝日新聞",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vZHNqa2dRamZmbFRBT2M4dXpWUGZzNmZWbWNmY01xVW1PaHNsZkItMUNrVFh3WU95TkZWeFVxQjEyLW42WHdSWWNkMDZ5YjVZd3ZlemowOUtqWTZaSXJnYkZfZDEzMW8?oc=5",
+      "evidenceTitle": "神宮外苑の再開発、伐採許可取り消しを求めた原告側が敗訴 東京地裁 [東京都] - 朝日新聞",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T11:00:00.000Z",
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "東京",
+        "京都"
+      ],
+      "keywords": [
+        "再開発"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-hkk59g",
+      "trendWord": "再開発",
+      "title": "「再開発」を写真で追う: 「伐採しても著しい被害生じず」 神宮外苑再開発巡り 東京地裁 - 毎日新聞",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NZlNzamF4Yk92Z09JYXRFYTRxUDBJSVhOU1BIS3lMcWdnUGV2S2ZOSm1KRjlhYmJIMDh1R2ZtckEya21KME11ZjNSV2tKVXgyTzFGNmJPS1ljWFhfRVZDTFZqWlVaSHFV?oc=5",
+      "evidenceTitle": "「伐採しても著しい被害生じず」 神宮外苑再開発巡り 東京地裁 - 毎日新聞",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T11:32:11.000Z",
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "東京"
+      ],
+      "keywords": [
+        "再開発"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-1y6xxm6",
+      "trendWord": "再開発",
+      "title": "「再開発」を写真で追う: 【工事費高騰】東京・日本橋一丁目東再開発、事業費5000億円超に - 建設通信新聞Digital",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sMU1fX3ZWX1BIOWt2bE1GX2p5dnNQNWRJdnMyZWdrNzl3eVFtRGM1LVZlcTh4dWo2amlnelVJeFJPUzhybWNvV0lFX0JPcFB5Z3BHSjZCNA?oc=5",
+      "evidenceTitle": "【工事費高騰】東京・日本橋一丁目東再開発、事業費5000億円超に - 建設通信新聞Digital",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T03:29:00.000Z",
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "東京"
+      ],
+      "keywords": [
+        "再開発"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-kesy6b",
+      "trendWord": "再開発",
+      "title": "「再開発」を写真で追う: “松山駅周辺の再開発”野志市長「白紙になったとは思わない」5月中に文化施設の検討会【愛媛】（テレビ愛媛） - Yahoo!ニュース",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82UjFodUYtaHdjaFdwM0pLYU9nVkE1R3RIUDJUUlVCVzRmSTRXTE9MRmo3QzJwVGxpLXpLV1RidDF0c08wa0VIa0hEZXZQM0ZfX253R2h5SWJwOXJsY2xvMXFKcXFkTEtuY1ZtRjE2TXlTUUl3OF82aTlOVkRtUzQ?oc=5",
+      "evidenceTitle": "“松山駅周辺の再開発”野志市長「白紙になったとは思わない」5月中に文化施設の検討会【愛媛】（テレビ愛媛） - Yahoo!ニュース",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T09:50:01.000Z",
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "愛媛"
+      ],
+      "keywords": [
+        "再開発"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.101Z"
+    },
+    {
+      "id": "topic-17ya3o3",
+      "trendWord": "避難",
+      "title": "「避難」を写真で追う: 梅雨を前に災害危険箇所を視察 防災体制の強化へ「非常食の備蓄や避難場所の確認など身近にできる対策を」 - ktn.co.jp",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcFhleF9RbEJjRHBpY1hBaEloR2RqMTJXVXBsNjY0cjBiRzNRNzI4UU1DWkd5WXo0ak9nRGtfLTNaZlh1UGVZNEhfU3otZGNOT0VwSXpxM0htM1BTaGh3LUh3?oc=5",
+      "evidenceTitle": "梅雨を前に災害危険箇所を視察 防災体制の強化へ「非常食の備蓄や避難場所の確認など身近にできる対策を」 - ktn.co.jp",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T10:00:00.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "避難"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-hkx2wp",
+      "trendWord": "避難",
+      "title": "「避難」を写真で追う: 「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨 - TBS NEWS DIG",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wM1dZcVJqOTFGNW5BdGltTHpjS1hqUHc4NkV6SkVFVGxTUHRVNTB4OGRTeGRUZktIRDQyRE5hU1k2RnV2RW5aMnI4N1k4ODI5X3pIRGd4a2dRdw?oc=5",
+      "evidenceTitle": "「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨 - TBS NEWS DIG",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T12:25:00.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "山梨"
+      ],
+      "keywords": [
+        "避難"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-1p7rdby",
+      "trendWord": "避難",
+      "title": "「避難」を写真で追う: 「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨（UTYテレビ山梨） - Yahoo!ニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yOEZ3SGhUdW02V3p2bWlYLVFkWWR1Rk9taFdWbk1ZbXlhRjNJWGV5QTlSV1E4TzFhZVlhZE91ZDR6WGcwUXBSYUEwN0NnUHFIelVFc0RzMWtkSHNnZVFOSWYwV1dKMEg4UzE1QklDMGtrMlk1cUtfTTd6ZnJrS1E?oc=5",
+      "evidenceTitle": "「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨（UTYテレビ山梨） - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T12:25:24.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "山梨"
+      ],
+      "keywords": [
+        "避難"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-1foh4n0",
+      "trendWord": "避難",
+      "title": "「避難」を写真で追う: 「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨 - TBS NEWS DIG",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xUzAzcFFoUDhXSFczcU5faHUzSkFWUld0TkVCMEFwSVJzcmtxbVpLOFVhaFRwQTFLRXpJYlNockVIOVFiRklXYktkcWN4b211MVcxWjNFRXVCTjliNjJjMTZ5MW0?oc=5",
+      "evidenceTitle": "「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨 - TBS NEWS DIG",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T12:25:00.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "山梨"
+      ],
+      "keywords": [
+        "避難"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-sd1uak",
+      "trendWord": "観光地",
+      "title": "「観光地」を写真で追う: にし茶屋街で「賛否両論 金沢」が営業再開 「大好きな金沢を応援したい」",
+      "photoCandidates": [
+        "観光地の混雑、行列、案内表示、地域側の対応"
+      ],
+      "evidenceUrl": "https://kanazawa.keizai.biz/headline/4045/",
+      "evidenceTitle": "にし茶屋街で「賛否両論 金沢」が営業再開 「大好きな金沢を応援したい」",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-11T12:00:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "観光地"
+      ],
+      "trust": 0.86,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-1u3k0p4",
+      "trendWord": "観光地",
+      "title": "「観光地」を写真で追う: 飯坂温泉に“聖地巡礼” 温泉むすめイベントで観光地活性化(福島)（KFB福島放送） - Yahoo!ニュース",
+      "photoCandidates": [
+        "観光地の混雑、行列、案内表示、地域側の対応"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04QmNFSVRsU1JDUjhTWUtPdkhqczB6UWdUNkE2czc1bWM4Q0lXR2dKbWowd3NBMlF3aFViR1JSNWNCOU9vbVVvb3gxSHpTblE3Rzk0bWtpSU1zckV5OHBpdXQtR1EyaGN5a0ktaUhVVkxwUmttTmxFa2JTamd4X2c?oc=5",
+      "evidenceTitle": "飯坂温泉に“聖地巡礼” 温泉むすめイベントで観光地活性化(福島)（KFB福島放送） - Yahoo!ニュース",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T09:56:38.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "福島"
+      ],
+      "keywords": [
+        "観光地"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-1bj6jas",
+      "trendWord": "観光地",
+      "title": "「観光地」を写真で追う: GW期間の福井県内観光地、テレビドラマ効果で客数増加 伸び率トップは… 県「新幹線効果は継続」 - 福井新聞社",
+      "photoCandidates": [
+        "観光地の混雑、行列、案内表示、地域側の対応"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGaUxvNEFJRHI2M1VWTW9kYi1HcW9waGhxRlc0ekVmUXVqdDRkbmFNaWpJdk9idEJjNXdFSVlJX2QzeUd3V1JxRWNJMFoyY3VZWldpN2poTi1QeWZEWmc?oc=5",
+      "evidenceTitle": "GW期間の福井県内観光地、テレビドラマ効果で客数増加 伸び率トップは… 県「新幹線効果は継続」 - 福井新聞社",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T02:30:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "福井"
+      ],
+      "keywords": [
+        "観光地"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-7ukv43",
+      "trendWord": "観光地",
+      "title": "「観光地」を写真で追う: 「中国の観光地には中国市民が溢れ 現地で感じた『国力』の足元の差」東浩紀 - AERA DIGITAL",
+      "photoCandidates": [
+        "観光地の混雑、行列、案内表示、地域側の対応"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xV3RNUWxCY2dDdWx4MjJJNVVDV2NDakYwMUI2d0VzSGhCR0hqd2RWZnZCSHYtYndfNUNTTVhOT051UmFMQ0JIMk5NMDZQZEkwVTcyQWpTWE9vdw?oc=5",
+      "evidenceTitle": "「中国の観光地には中国市民が溢れ 現地で感じた『国力』の足元の差」東浩紀 - AERA DIGITAL",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T08:00:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "観光地"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-10n4e0s",
+      "trendWord": "地震",
+      "title": "「地震」を写真で追う: 関連死、新たに3人 能登町、七尾市(北國新聞社)",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/f089ff6dcad2c9a472d38d18b33385a6eaf22ae0?source=rss",
+      "evidenceTitle": "関連死、新たに3人 能登町、七尾市(北國新聞社)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T14:39:15.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "石川"
+      ],
+      "keywords": [
+        "地震"
+      ],
+      "trust": 0.86,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-3bfx8b",
+      "trendWord": "地震",
+      "title": "「地震」を写真で追う: 編みぐるみで能登応援 主婦らのグループ「金石手芸部」宿泊施設で販売 売り上げ寄付「今後も続けたい」(北國新聞社)",
+      "photoCandidates": [
+        "「地震」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/f6f1bfd5c0d9fb5f5f4af582cd7b64f79d0029a5?source=rss",
+      "evidenceTitle": "編みぐるみで能登応援 主婦らのグループ「金石手芸部」宿泊施設で販売 売り上げ寄付「今後も続けたい」(北國新聞社)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T13:54:18.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "地震"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-jw5jfo",
+      "trendWord": "地震",
+      "title": "「地震」を写真で追う: 熊本地震から10年、防災行事3会場で 試食や抽選会も",
+      "photoCandidates": [
+        "「地震」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://kumamoto.keizai.biz/headline/1196/",
+      "evidenceTitle": "熊本地震から10年、防災行事3会場で 試食や抽選会も",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-12T03:00:00.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "熊本"
+      ],
+      "keywords": [
+        "地震"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-14ls07n",
+      "trendWord": "地震",
+      "title": "「地震」を写真で追う: 能登半島地震 災害関連死3人答申 死者735人の見通しに - NHKニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wekVPWi05U2RBZjYyN0pBMXJVX3RyQ1dQcGM3VWo2R0w5ZmNzak82U0ZIRFBtQW5HOHdxZmdiWU9rWWFVdUI4SGRTSkltb3lYUllNajBDaUR6MnJ1U0FJ?oc=5",
+      "evidenceTitle": "能登半島地震 災害関連死3人答申 死者735人の見通しに - NHKニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T11:47:04.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "地震"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-19kghdq",
+      "trendWord": "クマ",
+      "title": "「クマ」を写真で追う: 大崎市田尻の路上でクマ1頭目撃・宮城(ミヤギテレビ)",
+      "photoCandidates": [
+        "注意喚起の掲示、出没地点周辺、住民生活への影響"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/fd99f5b19b32a2805fbc323c9ff4bcac9a85ba48?source=rss",
+      "evidenceTitle": "大崎市田尻の路上でクマ1頭目撃・宮城(ミヤギテレビ)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T13:44:00.000Z",
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "宮城"
+      ],
+      "keywords": [
+        "クマ"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-130fc36",
+      "trendWord": "クマ",
+      "title": "「クマ」を写真で追う: 太白2丁目の路上を横切るクマ1頭目撃 宮城・仙台市太白区(ミヤギテレビ)",
+      "photoCandidates": [
+        "注意喚起の掲示、出没地点周辺、住民生活への影響"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/6efcaf6aba5b8e1c57bdff003ca76fbbddfb4137?source=rss",
+      "evidenceTitle": "太白2丁目の路上を横切るクマ1頭目撃 宮城・仙台市太白区(ミヤギテレビ)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T13:35:00.000Z",
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "宮城"
+      ],
+      "keywords": [
+        "クマ"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-g7109z",
+      "trendWord": "クマ",
+      "title": "「クマ」を写真で追う: 登山道でクマの目撃情報 「鈴やラジオを携帯して登山を」 静岡・裾野市(静岡朝日テレビ)",
+      "photoCandidates": [
+        "注意喚起の掲示、出没地点周辺、住民生活への影響"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/32fca33d04f373d3651c896d3f5fbf70c9ba9e88?source=rss",
+      "evidenceTitle": "登山道でクマの目撃情報 「鈴やラジオを携帯して登山を」 静岡・裾野市(静岡朝日テレビ)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T13:27:42.000Z",
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "静岡"
+      ],
+      "keywords": [
+        "クマ"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-1ucpybl",
+      "trendWord": "クマ",
+      "title": "「クマ」を写真で追う: 東松島市野蒜ケ丘でクマ1頭目撃・近くにはJR野蒜駅・宮城(ミヤギテレビ)",
+      "photoCandidates": [
+        "注意喚起の掲示、出没地点周辺、住民生活への影響"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/5e67cdba9fc404befbbe7725c82eab1643b06903?source=rss",
+      "evidenceTitle": "東松島市野蒜ケ丘でクマ1頭目撃・近くにはJR野蒜駅・宮城(ミヤギテレビ)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T13:22:00.000Z",
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "宮城"
+      ],
+      "keywords": [
+        "クマ"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-xg3zch",
+      "trendWord": "工事",
+      "title": "「工事」を写真で追う: 「じゃんぱら広島店」がリニューアル休業へ 14年ぶり刷新、展示量拡大も",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://hiroshima.keizai.biz/headline/4640/",
+      "evidenceTitle": "「じゃんぱら広島店」がリニューアル休業へ 14年ぶり刷新、展示量拡大も",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-12T10:45:40.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "広島"
+      ],
+      "keywords": [
+        "工事"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-16lhxh8",
+      "trendWord": "工事",
+      "title": "「工事」を写真で追う: 長崎 梅雨を前に災害の危険箇所や対策工事を視察 県北地域 - NHKニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響",
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IOENkSmJ5c2FwR01rVXcwQllFWHh5ZUdrbm42VUdJb01vZThJelJaM3R4ai1zcE5TdVRuZVdxSkFWN2R1X0NkU1YtdEV5Zkp1cDkzQWxYbTA?oc=5",
+      "evidenceTitle": "長崎 梅雨を前に災害の危険箇所や対策工事を視察 県北地域 - NHKニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T08:19:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "長崎"
+      ],
+      "keywords": [
+        "工事"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-108ax5v",
+      "trendWord": "工事",
+      "title": "「工事」を写真で追う: 摂津で市道3メートル陥没 復旧工事あすまでの予定 ／大阪 - 毎日新聞",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響",
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wUDFvU2F0RWl6LVU5MVNoOW1CaVN6YVJIdS11c0dZdGlRTVpiSHdHYUtPTGdRWnMyVjJ4Y1dLMDQtRkxlVF8tUGZmN3RvQnZjTkdpWnVzeWRRb3hzV2VBRmcyWkw5aWQ3?oc=5",
+      "evidenceTitle": "摂津で市道3メートル陥没 復旧工事あすまでの予定 ／大阪 - 毎日新聞",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-11T20:01:04.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "大阪"
+      ],
+      "keywords": [
+        "工事"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-19042x1",
+      "trendWord": "工事",
+      "title": "「工事」を写真で追う: 横浜や大阪で懸命の復旧工事…各地で道路陥没 “拡大”も - テレ朝NEWS",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響",
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WMWdsZ3dXRTc5OGlVdXQxbXBHdTVJbXJnOWIzUmk2TWtwVGFrX3JGdk01dExhRGkyMUtETE1VOUF4THBDTzJnTVVOOHdJeGk3MUVUcTlPMGh0bFBrR04wM1pXX2ZVY3RObG5mU1lRa2Frdw?oc=5",
+      "evidenceTitle": "横浜や大阪で懸命の復旧工事…各地で道路陥没 “拡大”も - テレ朝NEWS",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-11T15:56:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "大阪"
+      ],
+      "keywords": [
+        "工事"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-1f6p309",
+      "trendWord": "火災",
+      "title": "「火災」を写真で追う: 「鉄筋を切っていたら火花が…」枯草火災で軽トラック全焼 ビニールハウス骨組み切断中の火花が原因か 鹿児島(MBC南日本放送)",
+      "photoCandidates": [
+        "見頃の花、来訪者、管理する人、周辺交通や混雑",
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/73b0089ba63ee8bea051c107810df66bde6739eb?source=rss",
+      "evidenceTitle": "「鉄筋を切っていたら火花が…」枯草火災で軽トラック全焼 ビニールハウス骨組み切断中の火花が原因か 鹿児島(MBC南日本放送)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T15:22:13.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "鹿児島"
+      ],
+      "keywords": [
+        "火災"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": true,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-16hz7s3",
+      "trendWord": "火災",
+      "title": "「火災」を写真で追う: 「もう噴火しませんように」雲仙普賢岳の噴火災害への“追悼キャンドル”作り 地元の小学生が慰霊の取り組み - ktn.co.jp",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CVkdHcC1jbkFRTXBxOFkwRDRHckVMblpzMExDQUZfWDNZa05TRjBUYTk0RGREcDBlaVZzdGxtUThodmpCOThReU9wcDJzZDdPQm1TeFVoWFRfbFZSYkphMnBB?oc=5",
+      "evidenceTitle": "「もう噴火しませんように」雲仙普賢岳の噴火災害への“追悼キャンドル”作り 地元の小学生が慰霊の取り組み - ktn.co.jp",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T09:40:00.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "火災"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-1jdgtcf",
+      "trendWord": "火災",
+      "title": "「火災」を写真で追う: 災害から学ぶまちづくり 佐賀関火災の経験を防災力の強化に セミナー開催 大分 - tosonline.jp",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54X3hsVnY4OWhFMk5DWTNxVUljb1ZQeWtBRXFXajdCRzB0b2dwdF8wc2lKY1BGdnBreFdPMDdScUhDdHM3VERIOWZFOV9WT2pOMWJrZ29wQ2dXVEZL?oc=5",
+      "evidenceTitle": "災害から学ぶまちづくり 佐賀関火災の経験を防災力の強化に セミナー開催 大分 - tosonline.jp",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T09:40:00.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "佐賀",
+        "大分"
+      ],
+      "keywords": [
+        "火災"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-rn4q3g",
+      "trendWord": "火災",
+      "title": "「火災」を写真で追う: 災害から学ぶまちづくり 佐賀関火災の経験を防災力の強化に セミナー開催 大分（TOSテレビ大分） - Yahoo!ニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aQ2hWU3NYMnJSSGhSejJzNnowWDRmUFFOSVVUZzNRSFZsenZfdEFqY2tvdE1Ud0YzTWRBczZ5ckZTTm41ZkxzYmM2eWN6cWxWLUdwaExzMDFYVVRESUx5T0Zuc0tuUlk4U1RSWGM0S01WcE14Yzctcm1ib3Rwdm8?oc=5",
+      "evidenceTitle": "災害から学ぶまちづくり 佐賀関火災の経験を防災力の強化に セミナー開催 大分（TOSテレビ大分） - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T09:47:01.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "佐賀",
+        "大分"
+      ],
+      "keywords": [
+        "火災"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-1vzvx06",
+      "trendWord": "土砂災害",
+      "title": "「土砂災害」を写真で追う: 河川氾濫・大雨・土砂災害・高潮 4つの情報を5段階のレベルと色で危険度知らせる 29日から新しい防災気象情報が運用開始 - Yahoo!ニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EM2tuYzdvemlsR0pISmNyWE81VG5pUFdCeHNCX2tseGE5Yk5HZEtITHhhZjNpZDJ0T0hxVk9WQzFoa0ExdWlCOGNxdXhabGpheWkxbHNTQmN3enIxZEc5U0VhTjVJUXdCd0Z1VVJ2MWM0S21aSUFSdnlFblg0eEk?oc=5",
+      "evidenceTitle": "河川氾濫・大雨・土砂災害・高潮 4つの情報を5段階のレベルと色で危険度知らせる 29日から新しい防災気象情報が運用開始 - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T10:38:01.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "土砂災害"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-1jbcqso",
+      "trendWord": "土砂災害",
+      "title": "「土砂災害」を写真で追う: 沖縄本島、落雷突風 土砂災害に注意 沖縄気象台（琉球新報） - Yahoo!ニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rNUIzVXV3ZXB5SlN6WnM4SGhVRHluMTRGUjY4VE5DbFhmVzQ1SDd3bUlXWXlYbkNGRXhhTWtFZHhsVTV4V3Q1TDMxRzlGV191YnprcU9WZmpYQ1ZUYnh3MXJBZFRXNk8tQ3B5ZlV1RlBmV0x6NkdWMXJYY0szejQ?oc=5",
+      "evidenceTitle": "沖縄本島、落雷突風 土砂災害に注意 沖縄気象台（琉球新報） - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T03:01:52.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "沖縄"
+      ],
+      "keywords": [
+        "土砂災害"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-3mn6vy",
+      "trendWord": "土砂災害",
+      "title": "「土砂災害」を写真で追う: 周南 梅雨を前に 小学校で土砂災害の危険性や備えを学ぶ授業 - NHKニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04REVyNzM2M0pPcHBDNkNjd3dLbHMwNERQdHctaTV2MUtYZVpzT2FQSzIwODRQeTNXYmtfdC01YjVGMFZ3ZmJMdGhQRTBxZnBEREhoSUpTRkc?oc=5",
+      "evidenceTitle": "周南 梅雨を前に 小学校で土砂災害の危険性や備えを学ぶ授業 - NHKニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T09:57:00.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "土砂災害"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-7aomig",
+      "trendWord": "土砂災害",
+      "title": "「土砂災害」を写真で追う: 本島、落雷突風 土砂災害に注意 沖縄気象台 - 琉球新報デジタル",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fTDRtSld1LVBhU1lvV0QxbUtWYUMzZnBDN2NVTmZ5ZWVwQkx1RkEwT0RVR3ZIeXd4SzNxUGpZTFNySU5pR293STVyZTcwM2NxQ09DVlczb3ZJX2VOUHRLaw?oc=5",
+      "evidenceTitle": "本島、落雷突風 土砂災害に注意 沖縄気象台 - 琉球新報デジタル",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-11T20:00:00.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "沖縄"
+      ],
+      "keywords": [
+        "土砂災害"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-1h7n89k",
+      "trendWord": "閉店",
+      "title": "「閉店」を写真で追う: 名古屋駅前の『サラベス』が2026年6月30日をもって閉店 - 名古屋情報通",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43d1Z2SDl2TWs5b3E3anJJeW1HWWtESVpyTVpyeGp3dlN5YUo0ZTlZWFQ5V3hhM3k2ZXNKTm1tXzBoamhmODU4OXl1NVZHQQ?oc=5",
+      "evidenceTitle": "名古屋駅前の『サラベス』が2026年6月30日をもって閉店 - 名古屋情報通",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T05:20:47.000Z",
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "閉店"
+      ],
+      "trust": 0.72,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-151yhyn",
+      "trendWord": "閉店",
+      "title": "「閉店」を写真で追う: セレオ八王子のお茶屋さん『茶山』が5/17閉店へ 感謝セール開催中 - 八王子ジャーニー",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ydmp6UmM2OUtJTThPUjVQX0NSVW9MQWt5SGRIcVYxclJzRUcwejZ2VDBCaTRKQUk0MlNKQmU5akFxSVp2c0ZWLVBMcHQ4dlpxNjR1c293TV90UDhfX1Bz?oc=5",
+      "evidenceTitle": "セレオ八王子のお茶屋さん『茶山』が5/17閉店へ 感謝セール開催中 - 八王子ジャーニー",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T10:00:15.000Z",
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "閉店"
+      ],
+      "trust": 0.72,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-uu0uub",
+      "trendWord": "閉店",
+      "title": "「閉店」を写真で追う: 「焼肉屋かねよし屯田店」閉店へ - リアルエコノミー",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NTGo0TTZZaE8tcXVvRDdFT3Z6eFoxUXdwMGhvVlh3QUZZcTFBb3dFNDQ2MnU0bkpmUlhabUUwNk9fbnc5T3dZV1ZhTHFldUQ5c0UzbC03dU5JZw?oc=5",
+      "evidenceTitle": "「焼肉屋かねよし屯田店」閉店へ - リアルエコノミー",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T03:30:00.000Z",
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "閉店"
+      ],
+      "trust": 0.72,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.102Z"
+    },
+    {
+      "id": "topic-p2zbn0",
+      "trendWord": "閉店",
+      "title": "「閉店」を写真で追う: “大量閉店”ホリエモン発案パン屋「小麦の奴隷」が始めた新業態とは？ 「新食感」「クセになる」と賛辞も（ハフポスト日本版） - Yahoo!ニュース",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SczY4OWdWalNuVEZQbUZweW9qQmdHcVN2UUZfUHZkbWtMU01CSERBNU5oVXlZU3c3RnRYMDRGMFRqRF9qODZtcENyV0t5M3FKNlA1MTZrVjJ2UEpUQ1FXSXA2bS1wTEJ6T05OX2VQUXdMQXVKZnRrSUZSQktINFU?oc=5",
+      "evidenceTitle": "“大量閉店”ホリエモン発案パン屋「小麦の奴隷」が始めた新業態とは？ 「新食感」「クセになる」と賛辞も（ハフポスト日本版） - Yahoo!ニュース",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T08:40:18.000Z",
+      "categories": [
+        "社会問題語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "閉店"
+      ],
+      "trust": 0.72,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-1ttrw3z",
+      "trendWord": "祭り",
+      "title": "「祭り」を写真で追う: 松岡修造さん、佐藤直子さん、和倉でトークショー 30日(北國新聞社)",
+      "photoCandidates": [
+        "「祭り」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/552d3dc1e6946e12a05966fb79876fdbadea06eb?source=rss",
+      "evidenceTitle": "松岡修造さん、佐藤直子さん、和倉でトークショー 30日(北國新聞社)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T13:45:31.000Z",
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "祭り"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-fczhr",
+      "trendWord": "祭り",
+      "title": "「祭り」を写真で追う: 「福岡ボルドーワイン祭り」 100種のワインやフランスイメージの装飾も",
+      "photoCandidates": [
+        "「祭り」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://tenjin.keizai.biz/headline/8368/",
+      "evidenceTitle": "「福岡ボルドーワイン祭り」 100種のワインやフランスイメージの装飾も",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-12T08:57:19.000Z",
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "福岡"
+      ],
+      "keywords": [
+        "祭り"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-1pogoeb",
+      "trendWord": "祭り",
+      "title": "「祭り」を写真で追う: 横手駅東口で「トントン拍子祭り」 ブランド豚メニューなど10店が出店",
+      "photoCandidates": [
+        "田植え、用水、農作業、天候影響が分かる風景"
+      ],
+      "evidenceUrl": "https://yokote.keizai.biz/headline/1344/",
+      "evidenceTitle": "横手駅東口で「トントン拍子祭り」 ブランド豚メニューなど10店が出店",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-12T07:58:59.000Z",
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "祭り"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-1c9rnj6",
+      "trendWord": "祭り",
+      "title": "「祭り」を写真で追う: 「仙台・青葉まつり」開催へ すずめ踊りにコロナ禍以降最多の141団体4600人",
+      "photoCandidates": [
+        "「祭り」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://sendai.keizai.biz/headline/4408/",
+      "evidenceTitle": "「仙台・青葉まつり」開催へ すずめ踊りにコロナ禍以降最多の141団体4600人",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-11T14:13:14.000Z",
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "祭り"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-s5zjy7",
+      "trendWord": "駅前",
+      "title": "「駅前」を写真で追う: 経堂「木漏れ日」でGW親子イベント 子どもの絵をその場でTシャツに",
+      "photoCandidates": [
+        "「駅前」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://kyodo.keizai.biz/headline/781/",
+      "evidenceTitle": "経堂「木漏れ日」でGW親子イベント 子どもの絵をその場でTシャツに",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-12T12:34:36.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "駅前"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-1ngvm5r",
+      "trendWord": "駅前",
+      "title": "「駅前」を写真で追う: 学び続ける元教師、小野田駅前のバー「ティーチャー」5周年 交流の場にも",
+      "photoCandidates": [
+        "「駅前」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://yamaguchi.keizai.biz/headline/5421/",
+      "evidenceTitle": "学び続ける元教師、小野田駅前のバー「ティーチャー」5周年 交流の場にも",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-12T06:43:35.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "駅前"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-xxy0qi",
+      "trendWord": "駅前",
+      "title": "「駅前」を写真で追う: 名古屋駅前の『サラベス』が2026年6月30日をもって閉店 - 名古屋情報通",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43d1Z2SDl2TWs5b3E3anJJeW1HWWtESVpyTVpyeGp3dlN5YUo0ZTlZWFQ5V3hhM3k2ZXNKTm1tXzBoamhmODU4OXl1NVZHQQ?oc=5",
+      "evidenceTitle": "名古屋駅前の『サラベス』が2026年6月30日をもって閉店 - 名古屋情報通",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T05:20:47.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "駅前"
+      ],
+      "trust": 0.72,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-1rp4gc7",
+      "trendWord": "駅前",
+      "title": "「駅前」を写真で追う: 大牟田市・西鉄新栄町駅前の再開発、「医療と健康」テーマに…新たな駅舎や健康・スポーツ棟など設ける計画案 - Yahoo!ニュース",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9md0xzLW9pQXFLN2ZKb1BpcUUyQWgxazFPRW15cXkxSWkyeEJjdWFWaTlZUUZRdGNhUUxIRExGTjY5VjRIdnRZWkZVdHdUYVhlaVctaXpjWVIydTFCWDk4SWZUMzBPOFV5TXE5VmhFVVBVWWdNZVd3QUh1cmZQa3c?oc=5",
+      "evidenceTitle": "大牟田市・西鉄新栄町駅前の再開発、「医療と健康」テーマに…新たな駅舎や健康・スポーツ棟など設ける計画案 - Yahoo!ニュース",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T06:00:29.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "駅前"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-1frg4dh",
+      "trendWord": "商店街",
+      "title": "「商店街」を写真で追う: 江東・大島のベーカリーで街をつなぐ展覧会「ARKE展」 パン専用容器も",
+      "photoCandidates": [
+        "「商店街」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://koto.keizai.biz/headline/863/",
+      "evidenceTitle": "江東・大島のベーカリーで街をつなぐ展覧会「ARKE展」 パン専用容器も",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-12T03:58:14.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "商店街"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-t2ic59",
+      "trendWord": "商店街",
+      "title": "「商店街」を写真で追う: 浦和駅周辺でイベント「スイーツと緑のある暮らし」 3会場で街の魅力伝える",
+      "photoCandidates": [
+        "「商店街」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://urawa.keizai.biz/headline/1074/",
+      "evidenceTitle": "浦和駅周辺でイベント「スイーツと緑のある暮らし」 3会場で街の魅力伝える",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-12T01:23:54.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "商店街"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-1w3ku9b",
+      "trendWord": "商店街",
+      "title": "「商店街」を写真で追う: 六角橋ヤミ市 ギリヤークさんやすずめのティアーズが出演",
+      "photoCandidates": [
+        "「商店街」が記事中で示す現場、告知、関係者の動き"
+      ],
+      "evidenceUrl": "https://www.hamakei.com/headline/13211/",
+      "evidenceTitle": "六角橋ヤミ市 ギリヤークさんやすずめのティアーズが出演",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-11T18:45:02.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "神奈川"
+      ],
+      "keywords": [
+        "商店街"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-c1o2uy",
+      "trendWord": "商店街",
+      "title": "「商店街」を写真で追う: 「商店街災害復旧事業」の6次募集の補助事業者を交付決定しました - chusho.meti.go.jp",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1naGs2NEJqbWRMcHRYRFBJMWhwa0lpTWVzUXZDaFdIaVMyY0hWRFgxRGQ5ekg4U1g4d3V2WHd6NlktM25xWlpteFhXMzZjc0QyRVpwUmEtaGVwS2RFRWgxQlhFdnRNY3J4VFEza1F0aWZJOXFzYURZYlgtcnQ1UQ?oc=5",
+      "evidenceTitle": "「商店街災害復旧事業」の6次募集の補助事業者を交付決定しました - chusho.meti.go.jp",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-01T07:00:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "商店街"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-1om1qdz",
+      "trendWord": "豪雨",
+      "title": "「豪雨」を写真で追う: 豪雨被災から再出発 国分中央高校が農場を復旧 生徒が育てたタマネギ・レタスが3時間で完売 - FNNプライムオンライン",
+      "photoCandidates": [
+        "田植え、用水、農作業、天候影響が分かる風景",
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqeW5mNVZnZGtTNmNraTBkSk5RZ0tnZFV4VXdpVG9FZlJndEdfcFc4ZmJqc1pZNVN6Z3FMbDlyYklrclRib3I0VHNrR1IzQQ?oc=5",
+      "evidenceTitle": "豪雨被災から再出発 国分中央高校が農場を復旧 生徒が育てたタマネギ・レタスが3時間で完売 - FNNプライムオンライン",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T09:30:00.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "豪雨"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-7dmd44",
+      "trendWord": "豪雨",
+      "title": "「豪雨」を写真で追う: 霧島 豪雨被害から復旧 高校の実習農場で育てた野菜の販売会 - NHKニュース",
+      "photoCandidates": [
+        "田植え、用水、農作業、天候影響が分かる風景",
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UbEVWVUdoYnhOOXByMTYwQm9SeWw2cHZlWDJkTkJyd1gtNGFaRU5hRTlOaEtUOFd4QjZ5YUgtZENYdEpqaDdqRVREbkRFcmxjcjNYZ3JISFI?oc=5",
+      "evidenceTitle": "霧島 豪雨被害から復旧 高校の実習農場で育てた野菜の販売会 - NHKニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T07:57:00.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "豪雨"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-94j05h",
+      "trendWord": "豪雨",
+      "title": "「豪雨」を写真で追う: 去年豪雨災害の霧島市 雨の季節を前に被災地など点検 鹿児島（MBC南日本放送） - Yahoo!ニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xMFF4UTk0Nkw0dmxmNExrNkNvRXFrbnJLYUdPTTQ3RlRwUHo5MGw4VklwaHE4UzVELXhHSUs0MjhNem1McGQ5NGVac01ra0VscDIwWU56V09pQ3dFV1JLSlpvczJSV0dYUGZ0Sks5RkNzenItbFFjdUQ2NXN5VmM?oc=5",
+      "evidenceTitle": "去年豪雨災害の霧島市 雨の季節を前に被災地など点検 鹿児島（MBC南日本放送） - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-11T10:50:22.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "鹿児島"
+      ],
+      "keywords": [
+        "豪雨"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-9s5oow",
+      "trendWord": "豪雨",
+      "title": "「豪雨」を写真で追う: 豪雨災害の教訓生かし基礎を1メートルかさ上げ 防災拠点となる新体育館が完成 酒田市（YBC山形放送） - Yahoo!ニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oVW1GVzFENWZTbjIxdlY0eFZSRS1TVVNXTTBRMV94MEwtTC1GMDR1TDBHVjVJX3JaZ09CTkV0YVhFcUViR1p0ZzlQX1RldGlEUkYxQTkxTWQyMG4xNlZDSF9wSlNFdFFUcVhXNVY1UXZTM3poRVdkWGZibGczeW8?oc=5",
+      "evidenceTitle": "豪雨災害の教訓生かし基礎を1メートルかさ上げ 防災拠点となる新体育館が完成 酒田市（YBC山形放送） - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-11T09:15:01.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "山形"
+      ],
+      "keywords": [
+        "豪雨"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-67q1gt",
+      "trendWord": "梅雨時期を前に",
+      "title": "「梅雨時期を前に」を写真で追う: 大規模災害に備えて連携強化を確認 福岡県や自衛隊などがトップ会談 梅雨時期を前に(RKB毎日放送)",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/cc388349c89fb57bf09b4d66b3a914a0d8afd400?source=rss",
+      "evidenceTitle": "大規模災害に備えて連携強化を確認 福岡県や自衛隊などがトップ会談 梅雨時期を前に(RKB毎日放送)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T14:51:17.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "福岡"
+      ],
+      "keywords": [
+        "梅雨時期を前に"
+      ],
+      "trust": 0.86,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-c3lqcs",
+      "trendWord": "梅雨時期を前に",
+      "title": "「梅雨時期を前に」を写真で追う: 大規模災害に備えて連携強化を確認 福岡県や自衛隊などがトップ会談 梅雨時期を前に（RKB毎日放送） - Yahoo!ニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FMkh5N0xuSTJCNlJHanpyU1BPN2FBTF93QVk0MXlJLWVLcUx2X2NuU2t0VW1QaXJYOEhfZXFPMTd5dWdsa0R1R0hlblZxY0dkYWZpcDFkb0VWM3FxaFF3Wl82RlQ2aWh4NDZaTEVyWE9xeUtSUUpaUEN4eG54a3c?oc=5",
+      "evidenceTitle": "大規模災害に備えて連携強化を確認 福岡県や自衛隊などがトップ会談 梅雨時期を前に（RKB毎日放送） - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T14:51:17.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "福岡"
+      ],
+      "keywords": [
+        "梅雨時期を前に"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-1g148z4",
+      "trendWord": "梅雨時期を前に",
+      "title": "「梅雨時期を前に」を写真で追う: 大規模災害に備えて連携強化を確認 福岡県や自衛隊などがトップ会談 梅雨時期を前に - TBS NEWS DIG",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2ZUp6WDRtczNIdFN5dmdxQXlxSHRjZ3d1U2JBN2EzTWxpazIyQnA4dk85Y0U3bW9QMTMxU2xuX3AyRWhUR2VTWGF0YS1MRi1ydUdFRVNBNlV6N19laDFURlJ6ZFdJQjA?oc=5",
+      "evidenceTitle": "大規模災害に備えて連携強化を確認 福岡県や自衛隊などがトップ会談 梅雨時期を前に - TBS NEWS DIG",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T14:38:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "福岡"
+      ],
+      "keywords": [
+        "梅雨時期を前に"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-17aaodi",
+      "trendWord": "災害時に自力避難が困難な",
+      "title": "「災害時に自力避難が困難な」を写真で追う: 「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨 - TBS NEWS DIG",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wM1dZcVJqOTFGNW5BdGltTHpjS1hqUHc4NkV6SkVFVGxTUHRVNTB4OGRTeGRUZktIRDQyRE5hU1k2RnV2RW5aMnI4N1k4ODI5X3pIRGd4a2dRdw?oc=5",
+      "evidenceTitle": "「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨 - TBS NEWS DIG",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T12:25:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "山梨"
+      ],
+      "keywords": [
+        "災害時に自力避難が困難な"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-1u8azw7",
+      "trendWord": "災害時に自力避難が困難な",
+      "title": "「災害時に自力避難が困難な」を写真で追う: 「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨（UTYテレビ山梨） - Yahoo!ニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yOEZ3SGhUdW02V3p2bWlYLVFkWWR1Rk9taFdWbk1ZbXlhRjNJWGV5QTlSV1E4TzFhZVlhZE91ZDR6WGcwUXBSYUEwN0NnUHFIelVFc0RzMWtkSHNnZVFOSWYwV1dKMEg4UzE1QklDMGtrMlk1cUtfTTd6ZnJrS1E?oc=5",
+      "evidenceTitle": "「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨（UTYテレビ山梨） - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T12:25:24.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "山梨"
+      ],
+      "keywords": [
+        "災害時に自力避難が困難な"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-dgcrh1",
+      "trendWord": "災害時に自力避難が困難な",
+      "title": "「災害時に自力避難が困難な」を写真で追う: 「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨 - TBS NEWS DIG",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xUzAzcFFoUDhXSFczcU5faHUzSkFWUld0TkVCMEFwSVJzcmtxbVpLOFVhaFRwQTFLRXpJYlNockVIOVFiRklXYktkcWN4b211MVcxWjNFRXVCTjliNjJjMTZ5MW0?oc=5",
+      "evidenceTitle": "「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨 - TBS NEWS DIG",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T12:25:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "山梨"
+      ],
+      "keywords": [
+        "災害時に自力避難が困難な"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-1k5m810",
+      "trendWord": "災害時に自力避難が困難な",
+      "title": "「災害時に自力避難が困難な」を写真で追う: 「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨 - au Webポータル",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YcnBFNU9USHlqRDJJTGJNVlBKV0pTNy03VkRzQkZNaVZmNDBMbzZMS3gzakhDaEhLQ25obHdmZHY3aGdzUVFLeHJVTnpRaE04YXZiMzFIMm5nSGExZlFOXy11bEhOaE5KNzEzbHQ0WEpxV2NUWHRiODAtcw?oc=5",
+      "evidenceTitle": "「縦割りの壁を越えて連携が大事」災害時に自力避難が困難な人への対応 県や市町村が会議 山梨 - au Webポータル",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T12:32:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "山梨"
+      ],
+      "keywords": [
+        "災害時に自力避難が困難な"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.103Z"
+    },
+    {
+      "id": "topic-fanz2z",
+      "trendWord": "河川",
+      "title": "「河川」を写真で追う: 「足立の花火」開催へ 「今年こそ」の願い込め1万3000発打ち上げ",
+      "photoCandidates": [
+        "見頃の花、来訪者、管理する人、周辺交通や混雑"
+      ],
+      "evidenceUrl": "https://adachi.keizai.biz/headline/675/",
+      "evidenceTitle": "「足立の花火」開催へ 「今年こそ」の願い込め1万3000発打ち上げ",
+      "source": "みんなの経済新聞ネットワーク",
+      "sourceType": "local-business",
+      "publishedAt": "2026-05-12T06:05:45.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "河川"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": true,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-ud94kz",
+      "trendWord": "河川",
+      "title": "「河川」を写真で追う: 河川氾濫・大雨・土砂災害・高潮 4つの情報を5段階のレベルと色で危険度知らせる 29日から新しい防災気象情報が運用開始 - Yahoo!ニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EM2tuYzdvemlsR0pISmNyWE81VG5pUFdCeHNCX2tseGE5Yk5HZEtITHhhZjNpZDJ0T0hxVk9WQzFoa0ExdWlCOGNxdXhabGpheWkxbHNTQmN3enIxZEc5U0VhTjVJUXdCd0Z1VVJ2MWM0S21aSUFSdnlFblg0eEk?oc=5",
+      "evidenceTitle": "河川氾濫・大雨・土砂災害・高潮 4つの情報を5段階のレベルと色で危険度知らせる 29日から新しい防災気象情報が運用開始 - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T10:38:01.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "河川"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-1dgxtxq",
+      "trendWord": "メートルのクマ",
+      "title": "「メートルのクマ」を写真で追う: 大崎市田尻の路上でクマ1頭目撃・宮城(ミヤギテレビ)",
+      "photoCandidates": [
+        "注意喚起の掲示、出没地点周辺、住民生活への影響"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/fd99f5b19b32a2805fbc323c9ff4bcac9a85ba48?source=rss",
+      "evidenceTitle": "大崎市田尻の路上でクマ1頭目撃・宮城(ミヤギテレビ)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T13:44:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "宮城"
+      ],
+      "keywords": [
+        "メートルのクマ"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-1t0v5d",
+      "trendWord": "メートルのクマ",
+      "title": "「メートルのクマ」を写真で追う: 東松島市野蒜ケ丘でクマ1頭目撃・近くにはJR野蒜駅・宮城(ミヤギテレビ)",
+      "photoCandidates": [
+        "注意喚起の掲示、出没地点周辺、住民生活への影響"
+      ],
+      "evidenceUrl": "https://news.yahoo.co.jp/articles/5e67cdba9fc404befbbe7725c82eab1643b06903?source=rss",
+      "evidenceTitle": "東松島市野蒜ケ丘でクマ1頭目撃・近くにはJR野蒜駅・宮城(ミヤギテレビ)",
+      "source": "Yahoo!ニュース 地域",
+      "sourceType": "local",
+      "publishedAt": "2026-05-12T13:22:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "宮城"
+      ],
+      "keywords": [
+        "メートルのクマ"
+      ],
+      "trust": 0.86,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-y6mgq4",
+      "trendWord": "土砂災害に注意",
+      "title": "「土砂災害に注意」を写真で追う: 沖縄本島、落雷突風 土砂災害に注意 沖縄気象台（琉球新報） - Yahoo!ニュース",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rNUIzVXV3ZXB5SlN6WnM4SGhVRHluMTRGUjY4VE5DbFhmVzQ1SDd3bUlXWXlYbkNGRXhhTWtFZHhsVTV4V3Q1TDMxRzlGV191YnprcU9WZmpYQ1ZUYnh3MXJBZFRXNk8tQ3B5ZlV1RlBmV0x6NkdWMXJYY0szejQ?oc=5",
+      "evidenceTitle": "沖縄本島、落雷突風 土砂災害に注意 沖縄気象台（琉球新報） - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T03:01:52.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "沖縄"
+      ],
+      "keywords": [
+        "土砂災害に注意"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-rzpb8c",
+      "trendWord": "土砂災害に注意",
+      "title": "「土砂災害に注意」を写真で追う: 本島、落雷突風 土砂災害に注意 沖縄気象台 - 琉球新報デジタル",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fTDRtSld1LVBhU1lvV0QxbUtWYUMzZnBDN2NVTmZ5ZWVwQkx1RkEwT0RVR3ZIeXd4SzNxUGpZTFNySU5pR293STVyZTcwM2NxQ09DVlczb3ZJX2VOUHRLaw?oc=5",
+      "evidenceTitle": "本島、落雷突風 土砂災害に注意 沖縄気象台 - 琉球新報デジタル",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-11T20:00:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "沖縄"
+      ],
+      "keywords": [
+        "土砂災害に注意"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-92cyab",
+      "trendWord": "土砂災害に注意",
+      "title": "「土砂災害に注意」を写真で追う: 沖縄本島、落雷突風 土砂災害に注意 沖縄気象台 - 47NEWS",
+      "photoCandidates": [
+        "被害箇所、復旧作業、避難情報、支援や交通影響"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVcEVfdlNvZkJqTG9Xc2U3YkZHdWxaVFZPQlRSdWdYOUNzYnpuOVJsWUdSR0NVUUlaM3hHT3JTZ2d2NmNtZ19FNGYwRQ?oc=5",
+      "evidenceTitle": "沖縄本島、落雷突風 土砂災害に注意 沖縄気象台 - 47NEWS",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-11T20:00:00.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "沖縄"
+      ],
+      "keywords": [
+        "土砂災害に注意"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-1m5aong",
+      "trendWord": "水不足",
+      "title": "「水不足」を写真で追う: 【さらなる節水にご協力を】 水不足が進んでいます！ - city.fukuoka.lg.jp",
+      "photoCandidates": [
+        "水位・農地・給水対応など、記事で触れられた影響が見える現場"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12ei1WU1lYRi01MHpVbFBRcEdsOTEwdjJ0THZIV3BaZWc5blVwVkNIUm1lN1NTZWRoU0FFYm80OF9HRnlXblZPT3kxN3JwUWZiaTVFMm1RaDJlQmg5WjhKZFZtUERFaW52S2ZHbDRVQTVqRk9RSGpmWDVmQTE?oc=5",
+      "evidenceTitle": "【さらなる節水にご協力を】 水不足が進んでいます！ - city.fukuoka.lg.jp",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-07T07:00:00.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "水不足"
+      ],
+      "trust": 0.72,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-1uchekt",
+      "trendWord": "水不足",
+      "title": "「水不足」を写真で追う: 太宰府天満宮「飛梅ちぎり」神事 今年は1個 水不足の影響か（KBC九州朝日放送） - Yahoo!ニュース",
+      "photoCandidates": [
+        "水位・農地・給水対応など、記事で触れられた影響が見える現場"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FaTJzVEdJRjNPU2dhMEpQSUotVmNrdzE1RnFpNHFqcmNldHZhOUNEeTJFUEJ5VVFtMFZYOTFlUTZFXzVjZFdHR2wtY2MwcWpKSlpxVkhLaU13Tm1OTk1vaTBRa1NjbjE1M1NoZHd2eUFTSGJGOWkxeEZXLVdfaEk?oc=5",
+      "evidenceTitle": "太宰府天満宮「飛梅ちぎり」神事 今年は1個 水不足の影響か（KBC九州朝日放送） - Yahoo!ニュース",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-11T03:30:02.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "水不足"
+      ],
+      "trust": 0.72,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-uvso9z",
+      "trendWord": "水不足",
+      "title": "「水不足」を写真で追う: 太宰府天満宮「飛梅ちぎり」神事 今年は1個 水不足の影響か - KBC九州朝日放送",
+      "photoCandidates": [
+        "水位・農地・給水対応など、記事で触れられた影響が見える現場"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aSHNkZENPcGhTODc1SHB0cEtwQWV1eC12RlRmbW0wU2k4YTQ2ckNhTjdVVGlXOXNMakNPRWNHVTAweEtqeGdtYTRsbThoSDFubk9UTHBrTzcwdmcyYjg1clRFbEczNHRjQ3dRdmV3?oc=5",
+      "evidenceTitle": "太宰府天満宮「飛梅ちぎり」神事 今年は1個 水不足の影響か - KBC九州朝日放送",
+      "source": "Google News 災害",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-11T02:56:00.000Z",
+      "categories": [
+        "災害語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "水不足"
+      ],
+      "trust": 0.72,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-1txuv34",
+      "trendWord": "雪",
+      "title": "「雪」を写真で追う: 今週の花＞母に感謝 黒木雪映（白石町） 草月流 | まちの話題 | 佐賀県のニュース - 佐賀新聞",
+      "photoCandidates": [
+        "見頃の花、来訪者、管理する人、周辺交通や混雑"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42RjNSMktkcTNSbWd4YkNxVWtLbnNXb294TmRwSUhkM3RRRHcwNUVGYkJKWXkwN3BZazJ2Rk5OVWMwWnMwbEpmM2k3MWhUNGx2cWpRQmZB?oc=5",
+      "evidenceTitle": "今週の花＞母に感謝 黒木雪映（白石町） 草月流 | まちの話題 | 佐賀県のニュース - 佐賀新聞",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T13:02:48.000Z",
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "regions": [
+        "佐賀"
+      ],
+      "keywords": [
+        "雪"
+      ],
+      "trust": 0.72,
+      "droneSuitable": false,
+      "flowerTopic": true,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-1e2lu3d",
+      "trendWord": "雪",
+      "title": "「雪」を写真で追う: 十日町駅そば「雪中庵」ほくほく線と歩んだ29年の歴史に幕 観光案内所のリニューアルに伴い - 十日町タウン情報",
+      "photoCandidates": [
+        "観光地の混雑、行列、案内表示、地域側の対応"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40TjJFQ010dXF6R2hZcnlrU1NRbU9ad1ZLdGVCdW9rcmN1clZvYnZqME1IQ09FU0xWRERpbmR1dl9jTjRoQ0Zaa2RpY3FKVUVEY29CbGwyS1hzcDVna0JV?oc=5",
+      "evidenceTitle": "十日町駅そば「雪中庵」ほくほく線と歩んだ29年の歴史に幕 観光案内所のリニューアルに伴い - 十日町タウン情報",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T03:13:00.000Z",
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "雪"
+      ],
+      "trust": 0.72,
+      "droneSuitable": false,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-7gyytc",
+      "trendWord": "雪",
+      "title": "「雪」を写真で追う: ＜今週の花＞母に感謝 黒木雪映（白石町） 草月流 - 47NEWS",
+      "photoCandidates": [
+        "見頃の花、来訪者、管理する人、周辺交通や混雑"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VNFBhU3NWWUswVTB6TmF5dFVBNTdfSDFGT1VjQnJQMWF2b0thdmhSdlN6dzBNNjAxMkxWa2VfYjNDRUQ1eTBmSEpvYw?oc=5",
+      "evidenceTitle": "＜今週の花＞母に感謝 黒木雪映（白石町） 草月流 - 47NEWS",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T13:16:47.000Z",
+      "categories": [
+        "季節語",
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "雪"
+      ],
+      "trust": 0.72,
+      "droneSuitable": false,
+      "flowerTopic": true,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-1nyd1mf",
+      "trendWord": "神宮外苑再開発",
+      "title": "「神宮外苑再開発」を写真で追う: 樹木伐採、取り消し認めず 神宮外苑再開発、住民敗訴 - 北海道新聞デジタル",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wSGFlY2Ywc1g2V0RzbVlIWGdHSEwwcElEbHhmbWQtNENvMlNfT3g3aEUwLUZqaTNBOVA4aTFadkZTNEh4Mng4MFdSc0Q2M3JrSUpCYkFfcWkzQQ?oc=5",
+      "evidenceTitle": "樹木伐採、取り消し認めず 神宮外苑再開発、住民敗訴 - 北海道新聞デジタル",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T09:23:58.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "北海道"
+      ],
+      "keywords": [
+        "神宮外苑再開発"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.104Z"
+    },
+    {
+      "id": "topic-1gjfdy5",
+      "trendWord": "神宮外苑再開発",
+      "title": "「神宮外苑再開発」を写真で追う: 樹木伐採、取り消し認めず 神宮外苑再開発、住民敗訴（共同通信） - Yahoo!ニュース",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEcmF5NjVKOTYyOTIwNVpqcGNQcjFPdFV3ZlV0Tm5MUk9Qb0FCNnpoNm5jTGR3b3ZBOGtuN1pMMHloYkxRQnFwblZYdnVCVmI3LW1SV3dNNGhUSDV0QXMzUVZWcW9DY29JOXppZ2FMalhCV3RQNXBsT0VHMGdCamc?oc=5",
+      "evidenceTitle": "樹木伐採、取り消し認めず 神宮外苑再開発、住民敗訴（共同通信） - Yahoo!ニュース",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T09:13:49.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [],
+      "keywords": [
+        "神宮外苑再開発"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.105Z"
+    },
+    {
+      "id": "topic-1snzvke",
+      "trendWord": "神宮外苑再開発",
+      "title": "「神宮外苑再開発」を写真で追う: 神宮外苑再開発、樹木伐採許可の取り消し認めず 東京地裁判決 - 毎日新聞",
+      "photoCandidates": [
+        "店舗外観、駅前や商店街の変化、工事・解体・告知掲示"
+      ],
+      "evidenceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54OXRlS0JRWmZhQmpia3FwQm5NVjVoNnRsaFlCMGFoQVNLWTI1akhRVzRXMXp2UF9sc05mam11QWpGRkdTT2w0M3pmN1lFWC1FZy1qSVlIcmRxOW5ManNVemIyVC11YXND?oc=5",
+      "evidenceTitle": "神宮外苑再開発、樹木伐採許可の取り消し認めず 東京地裁判決 - 毎日新聞",
+      "source": "Google News 観光・地域",
+      "sourceType": "news-search",
+      "publishedAt": "2026-05-12T06:02:58.000Z",
+      "categories": [
+        "写真ネタ化"
+      ],
+      "regions": [
+        "東京"
+      ],
+      "keywords": [
+        "神宮外苑再開発"
+      ],
+      "trust": 0.72,
+      "droneSuitable": true,
+      "flowerTopic": false,
+      "createdAt": "2026-05-12T15:50:30.105Z"
+    }
+  ]
+}
